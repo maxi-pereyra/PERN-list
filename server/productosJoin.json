@@ -1,0 +1,6242 @@
+[
+  {
+    "description": "Alfajor",
+    "title": "Tita",
+    "price": "$590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Mousse Triple Milka",
+    "title": "36 GR",
+    "price": "$1900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Terrabusi Chocolate Clásico",
+    "title": "Milka",
+    "price": "$699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Triple Dulce De Leche",
+    "title": "55 GR",
+    "price": "$999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Triple Shot 60Gr",
+    "title": "Terrabusi",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Triple De Dulce De Leche Milka X 70 Grs.",
+    "title": "50 GR",
+    "price": "$999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chicles Beldent Menta Fuerte",
+    "title": "Terrabusi",
+    "price": "$660,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chicles Beldent Menta",
+    "title": "70 GR",
+    "price": "$660,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Triple",
+    "title": "Shot",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate De Leche Con Maní",
+    "title": "60 GR",
+    "price": "$950,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Alm",
+    "title": "Milka",
+    "price": "$2.250,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Con Leche Milka 55Gr",
+    "title": "70 GR",
+    "price": "$2.099,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Cadbury Frutilla Yoghurt",
+    "title": "Beldent",
+    "price": "$1.179,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletita Clasica",
+    "title": "10 GR",
+    "price": "$690,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arcor Chocolate/Leche Mani X 38Gr",
+    "title": "Beldent",
+    "price": "$1.270,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bombón De Chocolate Con Leche",
+    "title": "10 GR",
+    "price": "$199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Oblea Bañada En Cholote Blanco",
+    "title": "Oreo",
+    "price": "$909,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Oblea Bon O Bon 30Gr",
+    "title": "56 GR",
+    "price": "$850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Caramelos Mentol + Pectina Zero Azucar",
+    "title": "Shot",
+    "price": "$630,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomas Tubito Extreme Frut",
+    "title": "35 GR",
+    "price": "$415,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomas Tubitos Extreme",
+    "title": "Milka",
+    "price": "$415,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Turrón &amp; Maní",
+    "title": "55 GR",
+    "price": "$200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomitas Acidas De Frutilla Mogul 150Gr",
+    "title": "Milka",
+    "price": "$2.129,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "55 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Cadbury",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "29 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor",
+    "title": "Tita",
+    "price": "$590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Mousse Triple Milka",
+    "title": "36 GR",
+    "price": "$899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Terrabusi Chocolate Clásico",
+    "title": "Milka",
+    "price": "$699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Triple Dulce De Leche",
+    "title": "55 GR",
+    "price": "$999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Triple Shot 60Gr",
+    "title": "Terrabusi",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Triple De Dulce De Leche Milka X 70 Grs.",
+    "title": "50 GR",
+    "price": "$999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chicles Beldent Menta Fuerte",
+    "title": "Terrabusi",
+    "price": "$660,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chicles Beldent Menta",
+    "title": "70 GR",
+    "price": "$660,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Triple",
+    "title": "Shot",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate De Leche Con Maní",
+    "title": "60 GR",
+    "price": "$950,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Alm",
+    "title": "Milka",
+    "price": "$2.250,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Con Leche Milka 55Gr",
+    "title": "70 GR",
+    "price": "$2.099,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Cadbury Frutilla Yoghurt",
+    "title": "Beldent",
+    "price": "$1.179,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletita Clasica",
+    "title": "10 GR",
+    "price": "$690,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arcor Chocolate/Leche Mani X 38Gr",
+    "title": "Beldent",
+    "price": "$1.270,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bombón De Chocolate Con Leche",
+    "title": "10 GR",
+    "price": "$199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Oblea Bañada En Cholote Blanco",
+    "title": "Oreo",
+    "price": "$909,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Oblea Bon O Bon 30Gr",
+    "title": "56 GR",
+    "price": "$850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Caramelos Mentol + Pectina Zero Azucar",
+    "title": "Shot",
+    "price": "$630,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomas Tubito Extreme Frut",
+    "title": "35 GR",
+    "price": "$415,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomas Tubitos Extreme",
+    "title": "Milka",
+    "price": "$415,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Turrón &amp; Maní",
+    "title": "55 GR",
+    "price": "$200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomitas Acidas De Frutilla Mogul 150Gr",
+    "title": "Milka",
+    "price": "$2.129,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tableta De Chocolate Con Leche",
+    "title": "55 GR",
+    "price": "$388,99",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barra Chocolinas",
+    "title": "Cadbury",
+    "price": "$1.059,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomas Tuti Fruti",
+    "title": "29 GR",
+    "price": "$750,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Blanco",
+    "title": "Tita",
+    "price": "$855,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Con Leche",
+    "title": "19 GR",
+    "price": "$759,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bombón De Chocolate Blanco Bon O Bon",
+    "title": "Cofler Block",
+    "price": "$385,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Con Almendras",
+    "title": "38 GR",
+    "price": "$2.355,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bombones Chocolinas",
+    "title": "Bon o bon",
+    "price": "$8.185,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Aire Con Ddl",
+    "title": "15 GR",
+    "price": "$1.745,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Obleas Graffiti",
+    "title": "Bon o bon",
+    "price": "$800,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomitas Sabor Sandia",
+    "title": "30 GR",
+    "price": "$8.079,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gamitas Sandia Ext",
+    "title": "Bon o bon",
+    "price": "$619,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Con Maní Arcor",
+    "title": "30 GR",
+    "price": "$879,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite De Girasol",
+    "title": "Menthoplus",
+    "price": "$1.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Azúcar Comun Tipo A Don Miguel",
+    "title": "27 GR",
+    "price": "$999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tallarín",
+    "title": "Mogul",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas De Chocolate Rellenas",
+    "title": "20 GR",
+    "price": "$819,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcochos Salados",
+    "title": "Mogul",
+    "price": "$850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo 4 Flex",
+    "title": "20 GR",
+    "price": "$2.569,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Dulces Surtido Diversion",
+    "title": "Arcor",
+    "price": "$1.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tomates Perita Arcor",
+    "title": "25 GR",
+    "price": "$950,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcochos Agridulces",
+    "title": "Mogul",
+    "price": "$1.050,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Tradicional",
+    "title": "150 GR",
+    "price": "$1.965,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Suave Amanda",
+    "title": "Arcor",
+    "price": "$1.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Mignon Francés X 1 Kg.",
+    "title": "12 GR",
+    "price": "$990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dulce De Leche La Serenisima Clasico",
+    "title": "Cofler",
+    "price": "$2.625,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas De Chocolate Rellenas De Crema Rumba",
+    "title": "40 GR",
+    "price": "$800,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcochos Negritos",
+    "title": "Mogul",
+    "price": "$850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Sandwich 5 X 101 Grs.",
+    "title": "50 GR",
+    "price": "$1.879,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Infusion A Base De Café Arlistan Pet 170 G.",
+    "title": "Arcor",
+    "price": "$4.939,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina De Trigo 000",
+    "title": "25 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Tradicional Con Palo",
+    "title": "Arcor",
+    "price": "$1.399,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pate De Foie",
+    "title": "25 GR",
+    "price": "$799,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina Leudante",
+    "title": "Bon o bon",
+    "price": "$1.185,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Lomitos De Atún Al Natural Toledo X 170 Grs.",
+    "title": "15 GR",
+    "price": "$2.545,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Favorita Harina 000 Con Vitamina Zinc Favorita 1Kg",
+    "title": "Cofler",
+    "price": "$766,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Puré De Papas Instantáneo",
+    "title": "55 GR",
+    "price": "$1.099,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Puré De Papas Instantaneo",
+    "title": "Bon o bon",
+    "price": "$1.299,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Lomitos De Atún Aceite/Agua Toledo X 170 Grs.",
+    "title": "270 GR",
+    "price": "$2.545,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Seleccion Estuche",
+    "title": "Tofi",
+    "price": "$3.700,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Caldo Verdura Vegetales 6 Cubitos",
+    "title": "70 GR",
+    "price": "$850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas",
+    "title": "Cofler",
+    "price": "$1.000,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Picadillo De Carne Swift",
+    "title": "47 GR",
+    "price": "$799,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Con Chip De Chocolate Frutigran",
+    "title": "Mogul",
+    "price": "$1.705,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "500 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Mogul",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "50 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor",
+    "title": "Tita",
+    "price": "$590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Mousse Triple Milka",
+    "title": "36 GR",
+    "price": "$899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Terrabusi Chocolate Clásico",
+    "title": "Milka",
+    "price": "$699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Triple Dulce De Leche",
+    "title": "55 GR",
+    "price": "$999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Triple Shot 60Gr",
+    "title": "Terrabusi",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Triple De Dulce De Leche Milka X 70 Grs.",
+    "title": "50 GR",
+    "price": "$999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chicles Beldent Menta Fuerte",
+    "title": "Terrabusi",
+    "price": "$660,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chicles Beldent Menta",
+    "title": "70 GR",
+    "price": "$660,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Triple",
+    "title": "Shot",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate De Leche Con Maní",
+    "title": "60 GR",
+    "price": "$950,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Alm",
+    "title": "Milka",
+    "price": "$2.250,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Con Leche Milka 55Gr",
+    "title": "70 GR",
+    "price": "$2.099,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Cadbury Frutilla Yoghurt",
+    "title": "Beldent",
+    "price": "$1.179,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletita Clasica",
+    "title": "10 GR",
+    "price": "$690,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arcor Chocolate/Leche Mani X 38Gr",
+    "title": "Beldent",
+    "price": "$1.270,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bombón De Chocolate Con Leche",
+    "title": "10 GR",
+    "price": "$199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Oblea Bañada En Cholote Blanco",
+    "title": "Oreo",
+    "price": "$909,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Oblea Bon O Bon 30Gr",
+    "title": "56 GR",
+    "price": "$850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Caramelos Mentol + Pectina Zero Azucar",
+    "title": "Shot",
+    "price": "$630,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomas Tubito Extreme Frut",
+    "title": "35 GR",
+    "price": "$415,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomas Tubitos Extreme",
+    "title": "Milka",
+    "price": "$415,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Turrón &amp; Maní",
+    "title": "55 GR",
+    "price": "$200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomitas Acidas De Frutilla Mogul 150Gr",
+    "title": "Milka",
+    "price": "$2.129,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tableta De Chocolate Con Leche",
+    "title": "55 GR",
+    "price": "$388,99",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barra Chocolinas",
+    "title": "Cadbury",
+    "price": "$1.059,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomas Tuti Fruti",
+    "title": "29 GR",
+    "price": "$750,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Blanco",
+    "title": "Tita",
+    "price": "$855,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Con Leche",
+    "title": "19 GR",
+    "price": "$759,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bombón De Chocolate Blanco Bon O Bon",
+    "title": "Cofler Block",
+    "price": "$385,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Con Almendras",
+    "title": "38 GR",
+    "price": "$2.355,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bombones Chocolinas",
+    "title": "Bon o bon",
+    "price": "$8.185,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Aire Con Ddl",
+    "title": "15 GR",
+    "price": "$1.745,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Obleas Graffiti",
+    "title": "Bon o bon",
+    "price": "$800,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomitas Sabor Sandia",
+    "title": "30 GR",
+    "price": "$8.079,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gamitas Sandia Ext",
+    "title": "Bon o bon",
+    "price": "$619,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chocolate Con Maní Arcor",
+    "title": "30 GR",
+    "price": "$879,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite De Girasol",
+    "title": "Menthoplus",
+    "price": "$1.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Azúcar Comun Tipo A Don Miguel",
+    "title": "27 GR",
+    "price": "$999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tallarín",
+    "title": "Mogul",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas De Chocolate Rellenas",
+    "title": "20 GR",
+    "price": "$819,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcochos Salados",
+    "title": "Mogul",
+    "price": "$850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo 4 Flex",
+    "title": "20 GR",
+    "price": "$2.569,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Dulces Surtido Diversion",
+    "title": "Arcor",
+    "price": "$1.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tomates Perita Arcor",
+    "title": "25 GR",
+    "price": "$950,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcochos Agridulces",
+    "title": "Mogul",
+    "price": "$1.050,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Tradicional",
+    "title": "150 GR",
+    "price": "$1.965,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Suave Amanda",
+    "title": "Arcor",
+    "price": "$1.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Mignon Francés X 1 Kg.",
+    "title": "12 GR",
+    "price": "$990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dulce De Leche La Serenisima Clasico",
+    "title": "Cofler",
+    "price": "$2.625,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas De Chocolate Rellenas De Crema Rumba",
+    "title": "40 GR",
+    "price": "$800,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcochos Negritos",
+    "title": "Mogul",
+    "price": "$850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Sandwich 5 X 101 Grs.",
+    "title": "50 GR",
+    "price": "$1.879,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Infusion A Base De Café Arlistan Pet 170 G.",
+    "title": "Arcor",
+    "price": "$4.939,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina De Trigo 000",
+    "title": "25 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Tradicional Con Palo",
+    "title": "Arcor",
+    "price": "$1.399,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pate De Foie",
+    "title": "25 GR",
+    "price": "$799,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina Leudante",
+    "title": "Bon o bon",
+    "price": "$1.185,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Lomitos De Atún Al Natural Toledo X 170 Grs.",
+    "title": "15 GR",
+    "price": "$2.545,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Favorita Harina 000 Con Vitamina Zinc Favorita 1Kg",
+    "title": "Cofler",
+    "price": "$766,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Puré De Papas Instantáneo",
+    "title": "55 GR",
+    "price": "$1.099,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Puré De Papas Instantaneo",
+    "title": "Bon o bon",
+    "price": "$1.299,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Lomitos De Atún Aceite/Agua Toledo X 170 Grs.",
+    "title": "270 GR",
+    "price": "$2.545,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Seleccion Estuche",
+    "title": "Tofi",
+    "price": "$3.700,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Caldo Verdura Vegetales 6 Cubitos",
+    "title": "70 GR",
+    "price": "$850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas",
+    "title": "Cofler",
+    "price": "$1.000,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Picadillo De Carne Swift",
+    "title": "47 GR",
+    "price": "$799,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Con Chip De Chocolate Frutigran",
+    "title": "Mogul",
+    "price": "$1.705,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "500 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Mogul",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "50 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sal Gruesa Paquete",
+    "title": "Celusal",
+    "price": "$1.800,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Con Palo Seleccion Especial",
+    "title": "1 KG",
+    "price": "$3.950,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostadas Arroz S/Tacc",
+    "title": "Amanda",
+    "price": "$1.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Inst Vegetales 5 Sob",
+    "title": "1 KG",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Polvoron Con Chips De Chocolate Primer Precio 300Gr",
+    "title": "Primer Precio",
+    "price": "$1.210,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas De Salvado 720Gr",
+    "title": "150 GR",
+    "price": "$3.130,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostada Arroz Clasica",
+    "title": "Toledo",
+    "price": "$1.369,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tallarin N°5",
+    "title": "57 GR",
+    "price": "$1.480,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino 00000 Vanguardia 1Kg",
+    "title": "Primer Precio",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Azúcar Mascabo Ledesma 800 G",
+    "title": "300 GR",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Coditos Matarazzo 500Gr",
+    "title": "Granix",
+    "price": "$1.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galleta Sin Sal Marineras",
+    "title": "720 GR",
+    "price": "$1.229,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletas Con Sésamo Granix 185Gr",
+    "title": "Risky-Dit",
+    "price": "$929,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Almidon De Maiz",
+    "title": "150 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Inst Choclo 5 Sob",
+    "title": "Matarazzo",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Vainillas Pozo",
+    "title": "500 GR",
+    "price": "$1.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tomates Pelados Perita Ferba X 390 Grs.",
+    "title": "Vanguardia",
+    "price": "$1.039,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Snacks Jamon",
+    "title": "1 KG",
+    "price": "$1.120,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Sonrisas",
+    "title": "Ledesma",
+    "price": "$900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tomate Triturado",
+    "title": "800 GR",
+    "price": "$1.599,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletas De Arroz Sin Sal",
+    "title": "Matarazzo",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galleta De Arroz Yamani",
+    "title": "500 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina Integral Fina",
+    "title": "Camet",
+    "price": "$1.090,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Almohaditas Rellenas De Frutilla Primer Precio 180Gr",
+    "title": "330 GR",
+    "price": "$1.499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite De Girasol Cocinero 1500Cc",
+    "title": "Granix",
+    "price": "$2.900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Parboil Bolsa Nuevo",
+    "title": "185 GR",
+    "price": "$3.500,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tirabuzon La Campagnola",
+    "title": "Maizena",
+    "price": "$1.339,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Miel",
+    "title": "220 GR",
+    "price": "$899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Almohaditas Rellenas Con Avellana",
+    "title": "Toledo",
+    "price": "$1.169,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tirabuzon N°28",
+    "title": "57 GR",
+    "price": "$1.719,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galleta C/Sal Marineras",
+    "title": "Pozo",
+    "price": "$1.229,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nachos C /Queso",
+    "title": "296 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Porotos Negros",
+    "title": "Ferba",
+    "price": "$925,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tallarin La Campagnola 500Gr",
+    "title": "390 GR",
+    "price": "$1.339,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Surtidas Pepas-Anillitos-Chip",
+    "title": "Saladix",
+    "price": "$1.375,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cafe Tostado La Planta Cabrales En Saquitos 18 Unidades",
+    "title": "100 GR",
+    "price": "$3.150,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Milka Mousse De Chocolate Rellenas 116 G.",
+    "title": "Sonrisas",
+    "price": "$1.189,99",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Turron De Mani",
+    "title": "108 GR",
+    "price": "$230,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo 4 Flex Mañanita",
+    "title": "Jandai",
+    "price": "$4.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Granagua 400Gr",
+    "title": "950 GR",
+    "price": "$2.765,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Spaghetti N° 7",
+    "title": "Macrobiotica",
+    "price": "$1.519,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Parboil Cierra Fácil Gallo 500 Gr.",
+    "title": "102 GR",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostaditas Veggie Arroz Y Arvejas",
+    "title": "Macrobiotica",
+    "price": "$1.535,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palitos Maiz Queso",
+    "title": "102 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Polvoron Sabor Limon",
+    "title": "Chacabuco",
+    "price": "$1.210,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas",
+    "title": "1 KG",
+    "price": "$1.630,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pepas Con Dulce De Membrillo",
+    "title": "Primer Precio",
+    "price": "$889,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Blanco",
+    "title": "180 GR",
+    "price": "$2.599,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Salsa Filetto Nueva",
+    "title": "Cocinero",
+    "price": "$699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereales Skarchitos",
+    "title": "1500 CC",
+    "price": "$1.439,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gelatina Light Frutilla",
+    "title": "Gallo oro",
+    "price": "$865,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Surtidas Con Pepas-Anillos-Chip",
+    "title": "1 KG",
+    "price": "$2.069,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Avena Instantanea Pouch",
+    "title": "La Campagnola",
+    "price": "$1.649,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Sin Sal Quento",
+    "title": "500 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Moños Lucchetti",
+    "title": "Melitas",
+    "price": "$2.205,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalenas De Chocolate Rellena De Dulce De Leche",
+    "title": "159 GR",
+    "price": "$1.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Capuccino Instantaneo Primer Precio 125Gr",
+    "title": "Primer Precio",
+    "price": "$2.245,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Salvado Dulce Frutigran 500Gr",
+    "title": "180 GR",
+    "price": "$2.149,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Talitas",
+    "title": "Matarazzo",
+    "price": "$1.350,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Fortuna Doble Carolina",
+    "title": "500 GR",
+    "price": "$4.119,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Te Negro Clásico Green Hills",
+    "title": "Camet",
+    "price": "$1.315,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nachos Originales",
+    "title": "330 GR",
+    "price": "$2.220,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Salsa Pomarola Nueva",
+    "title": "Quento",
+    "price": "$699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcochitos Azucarados",
+    "title": "90 GR",
+    "price": "$490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Chocolate Negro",
+    "title": "Inalpa",
+    "price": "$999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Tradicional",
+    "title": "300 GR",
+    "price": "$4.029,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Lentejas",
+    "title": "La Campagnola",
+    "price": "$2.269,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Gluten Sin Sal",
+    "title": "500 GR",
+    "price": "$1.155,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Oregano Alicante 25Gr",
+    "title": "Primer Precio",
+    "price": "$960,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tomates Pelados",
+    "title": "400 GR",
+    "price": "$1.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Almohaditas Rellenas De Chocolate Primer Precio 180Gr",
+    "title": "La Planta",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "90 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Milka",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "116 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sal Gruesa Paquete",
+    "title": "Celusal",
+    "price": "$1.800,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Con Palo Seleccion Especial",
+    "title": "1 KG",
+    "price": "$3.950,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostadas Arroz S/Tacc",
+    "title": "Amanda",
+    "price": "$1.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Inst Vegetales 5 Sob",
+    "title": "1 KG",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Polvoron Con Chips De Chocolate Primer Precio 300Gr",
+    "title": "Primer Precio",
+    "price": "$1.210,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas De Salvado 720Gr",
+    "title": "150 GR",
+    "price": "$3.130,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostada Arroz Clasica",
+    "title": "Toledo",
+    "price": "$1.369,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tallarin N°5",
+    "title": "57 GR",
+    "price": "$1.480,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino 00000 Vanguardia 1Kg",
+    "title": "Primer Precio",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Azúcar Mascabo Ledesma 800 G",
+    "title": "300 GR",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Coditos Matarazzo 500Gr",
+    "title": "Granix",
+    "price": "$1.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galleta Sin Sal Marineras",
+    "title": "720 GR",
+    "price": "$1.229,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletas Con Sésamo Granix 185Gr",
+    "title": "Risky-Dit",
+    "price": "$929,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Almidon De Maiz",
+    "title": "150 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Inst Choclo 5 Sob",
+    "title": "Matarazzo",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Vainillas Pozo",
+    "title": "500 GR",
+    "price": "$1.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tomates Pelados Perita Ferba X 390 Grs.",
+    "title": "Vanguardia",
+    "price": "$1.039,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Snacks Jamon",
+    "title": "1 KG",
+    "price": "$1.120,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Sonrisas",
+    "title": "Ledesma",
+    "price": "$900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tomate Triturado",
+    "title": "800 GR",
+    "price": "$1.599,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletas De Arroz Sin Sal",
+    "title": "Matarazzo",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galleta De Arroz Yamani",
+    "title": "500 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina Integral Fina",
+    "title": "Camet",
+    "price": "$1.090,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Almohaditas Rellenas De Frutilla Primer Precio 180Gr",
+    "title": "330 GR",
+    "price": "$1.499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite De Girasol Cocinero 1500Cc",
+    "title": "Granix",
+    "price": "$2.900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Parboil Bolsa Nuevo",
+    "title": "185 GR",
+    "price": "$3.500,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tirabuzon La Campagnola",
+    "title": "Maizena",
+    "price": "$1.339,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Miel",
+    "title": "220 GR",
+    "price": "$899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Almohaditas Rellenas Con Avellana",
+    "title": "Toledo",
+    "price": "$1.169,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tirabuzon N°28",
+    "title": "57 GR",
+    "price": "$1.719,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galleta C/Sal Marineras",
+    "title": "Pozo",
+    "price": "$1.229,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nachos C /Queso",
+    "title": "296 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Porotos Negros",
+    "title": "Ferba",
+    "price": "$925,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tallarin La Campagnola 500Gr",
+    "title": "390 GR",
+    "price": "$1.339,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Surtidas Pepas-Anillitos-Chip",
+    "title": "Saladix",
+    "price": "$1.375,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cafe Tostado La Planta Cabrales En Saquitos 18 Unidades",
+    "title": "100 GR",
+    "price": "$3.150,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Milka Mousse De Chocolate Rellenas 116 G.",
+    "title": "Sonrisas",
+    "price": "$1.189,99",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Turron De Mani",
+    "title": "108 GR",
+    "price": "$230,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo 4 Flex Mañanita",
+    "title": "Jandai",
+    "price": "$4.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Granagua 400Gr",
+    "title": "950 GR",
+    "price": "$2.765,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Spaghetti N° 7",
+    "title": "Macrobiotica",
+    "price": "$1.519,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Parboil Cierra Fácil Gallo 500 Gr.",
+    "title": "102 GR",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostaditas Veggie Arroz Y Arvejas",
+    "title": "Macrobiotica",
+    "price": "$1.535,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palitos Maiz Queso",
+    "title": "102 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Polvoron Sabor Limon",
+    "title": "Chacabuco",
+    "price": "$1.210,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas",
+    "title": "1 KG",
+    "price": "$1.630,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pepas Con Dulce De Membrillo",
+    "title": "Primer Precio",
+    "price": "$889,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Blanco",
+    "title": "180 GR",
+    "price": "$2.599,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Salsa Filetto Nueva",
+    "title": "Cocinero",
+    "price": "$699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereales Skarchitos",
+    "title": "1500 CC",
+    "price": "$1.439,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gelatina Light Frutilla",
+    "title": "Gallo oro",
+    "price": "$865,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Surtidas Con Pepas-Anillos-Chip",
+    "title": "1 KG",
+    "price": "$2.069,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Avena Instantanea Pouch",
+    "title": "La Campagnola",
+    "price": "$1.649,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Sin Sal Quento",
+    "title": "500 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Moños Lucchetti",
+    "title": "Melitas",
+    "price": "$2.205,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalenas De Chocolate Rellena De Dulce De Leche",
+    "title": "159 GR",
+    "price": "$1.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Capuccino Instantaneo Primer Precio 125Gr",
+    "title": "Primer Precio",
+    "price": "$2.245,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Salvado Dulce Frutigran 500Gr",
+    "title": "180 GR",
+    "price": "$2.149,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Talitas",
+    "title": "Matarazzo",
+    "price": "$1.350,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Fortuna Doble Carolina",
+    "title": "500 GR",
+    "price": "$4.119,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Te Negro Clásico Green Hills",
+    "title": "Camet",
+    "price": "$1.315,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nachos Originales",
+    "title": "330 GR",
+    "price": "$2.220,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Salsa Pomarola Nueva",
+    "title": "Quento",
+    "price": "$699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcochitos Azucarados",
+    "title": "90 GR",
+    "price": "$490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Chocolate Negro",
+    "title": "Inalpa",
+    "price": "$999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Tradicional",
+    "title": "300 GR",
+    "price": "$4.029,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Lentejas",
+    "title": "La Campagnola",
+    "price": "$2.269,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Gluten Sin Sal",
+    "title": "500 GR",
+    "price": "$1.155,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Oregano Alicante 25Gr",
+    "title": "Primer Precio",
+    "price": "$960,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tomates Pelados",
+    "title": "400 GR",
+    "price": "$1.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Almohaditas Rellenas De Chocolate Primer Precio 180Gr",
+    "title": "La Planta",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "90 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Milka",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "116 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sal Gruesa Paquete",
+    "title": "Celusal",
+    "price": "$1.800,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Con Palo Seleccion Especial",
+    "title": "1 KG",
+    "price": "$3.950,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostadas Arroz S/Tacc",
+    "title": "Amanda",
+    "price": "$1.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Inst Vegetales 5 Sob",
+    "title": "1 KG",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Polvoron Con Chips De Chocolate Primer Precio 300Gr",
+    "title": "Primer Precio",
+    "price": "$1.210,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas De Salvado 720Gr",
+    "title": "150 GR",
+    "price": "$3.130,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostada Arroz Clasica",
+    "title": "Toledo",
+    "price": "$1.369,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tallarin N°5",
+    "title": "57 GR",
+    "price": "$1.480,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino 00000 Vanguardia 1Kg",
+    "title": "Primer Precio",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Azúcar Mascabo Ledesma 800 G",
+    "title": "300 GR",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Coditos Matarazzo 500Gr",
+    "title": "Granix",
+    "price": "$1.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galleta Sin Sal Marineras",
+    "title": "720 GR",
+    "price": "$1.229,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletas Con Sésamo Granix 185Gr",
+    "title": "Risky-Dit",
+    "price": "$929,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Almidon De Maiz",
+    "title": "150 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Inst Choclo 5 Sob",
+    "title": "Matarazzo",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Vainillas Pozo",
+    "title": "500 GR",
+    "price": "$1.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tomates Pelados Perita Ferba X 390 Grs.",
+    "title": "Vanguardia",
+    "price": "$1.039,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Snacks Jamon",
+    "title": "1 KG",
+    "price": "$1.120,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Sonrisas",
+    "title": "Ledesma",
+    "price": "$900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tomate Triturado",
+    "title": "800 GR",
+    "price": "$1.599,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletas De Arroz Sin Sal",
+    "title": "Matarazzo",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galleta De Arroz Yamani",
+    "title": "500 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina Integral Fina",
+    "title": "Camet",
+    "price": "$1.090,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Almohaditas Rellenas De Frutilla Primer Precio 180Gr",
+    "title": "330 GR",
+    "price": "$1.499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite De Girasol Cocinero 1500Cc",
+    "title": "Granix",
+    "price": "$2.900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Parboil Bolsa Nuevo",
+    "title": "185 GR",
+    "price": "$3.500,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tirabuzon La Campagnola",
+    "title": "Maizena",
+    "price": "$1.339,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Miel",
+    "title": "220 GR",
+    "price": "$899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Almohaditas Rellenas Con Avellana",
+    "title": "Toledo",
+    "price": "$1.169,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tirabuzon N°28",
+    "title": "57 GR",
+    "price": "$1.719,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galleta C/Sal Marineras",
+    "title": "Pozo",
+    "price": "$1.229,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nachos C /Queso",
+    "title": "296 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Porotos Negros",
+    "title": "Ferba",
+    "price": "$925,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tallarin La Campagnola 500Gr",
+    "title": "390 GR",
+    "price": "$1.339,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Surtidas Pepas-Anillitos-Chip",
+    "title": "Saladix",
+    "price": "$1.375,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cafe Tostado La Planta Cabrales En Saquitos 18 Unidades",
+    "title": "100 GR",
+    "price": "$3.150,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Milka Mousse De Chocolate Rellenas 116 G.",
+    "title": "Sonrisas",
+    "price": "$1.189,99",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Turron De Mani",
+    "title": "108 GR",
+    "price": "$230,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo 4 Flex Mañanita",
+    "title": "Jandai",
+    "price": "$4.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Granagua 400Gr",
+    "title": "950 GR",
+    "price": "$2.765,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Spaghetti N° 7",
+    "title": "Macrobiotica",
+    "price": "$1.519,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Parboil Cierra Fácil Gallo 500 Gr.",
+    "title": "102 GR",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostaditas Veggie Arroz Y Arvejas",
+    "title": "Macrobiotica",
+    "price": "$1.535,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palitos Maiz Queso",
+    "title": "102 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Polvoron Sabor Limon",
+    "title": "Chacabuco",
+    "price": "$1.210,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas",
+    "title": "1 KG",
+    "price": "$1.630,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pepas Con Dulce De Membrillo",
+    "title": "Primer Precio",
+    "price": "$889,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Blanco",
+    "title": "180 GR",
+    "price": "$2.599,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Salsa Filetto Nueva",
+    "title": "Cocinero",
+    "price": "$699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereales Skarchitos",
+    "title": "1500 CC",
+    "price": "$1.439,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gelatina Light Frutilla",
+    "title": "Gallo oro",
+    "price": "$865,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Surtidas Con Pepas-Anillos-Chip",
+    "title": "1 KG",
+    "price": "$2.069,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Avena Instantanea Pouch",
+    "title": "La Campagnola",
+    "price": "$1.649,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Sin Sal Quento",
+    "title": "500 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Moños Lucchetti",
+    "title": "Melitas",
+    "price": "$2.205,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalenas De Chocolate Rellena De Dulce De Leche",
+    "title": "159 GR",
+    "price": "$1.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Capuccino Instantaneo Primer Precio 125Gr",
+    "title": "Primer Precio",
+    "price": "$2.245,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Salvado Dulce Frutigran 500Gr",
+    "title": "180 GR",
+    "price": "$2.149,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Talitas",
+    "title": "Matarazzo",
+    "price": "$1.350,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Fortuna Doble Carolina",
+    "title": "500 GR",
+    "price": "$4.119,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Te Negro Clásico Green Hills",
+    "title": "Camet",
+    "price": "$1.315,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nachos Originales",
+    "title": "330 GR",
+    "price": "$2.220,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Salsa Pomarola Nueva",
+    "title": "Quento",
+    "price": "$699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcochitos Azucarados",
+    "title": "90 GR",
+    "price": "$490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Chocolate Negro",
+    "title": "Inalpa",
+    "price": "$999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Tradicional",
+    "title": "300 GR",
+    "price": "$4.029,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Lentejas",
+    "title": "La Campagnola",
+    "price": "$2.269,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Gluten Sin Sal",
+    "title": "500 GR",
+    "price": "$1.155,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Oregano Alicante 25Gr",
+    "title": "Primer Precio",
+    "price": "$960,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tomates Pelados",
+    "title": "400 GR",
+    "price": "$1.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Almohaditas Rellenas De Chocolate Primer Precio 180Gr",
+    "title": "La Planta",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "90 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Milka",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "116 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pepas Alemanas",
+    "title": "Trio",
+    "price": "$1.155,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Codito",
+    "title": "300 GR",
+    "price": "$1.489,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barra Avena-Almen-Nuez",
+    "title": "Arcor",
+    "price": "$1.070,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mix Arveja Y Zanahoria",
+    "title": "500 GR",
+    "price": "$809,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mate Cocido En Saquitos Amanda",
+    "title": "Integra",
+    "price": "$945,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostada Fina Clasica",
+    "title": "41 GR",
+    "price": "$1.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Cachamate Sabor Coco 500 G",
+    "title": "Inalpa",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pimenton",
+    "title": "300 GR",
+    "price": "$490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Ciruela+Fru",
+    "title": "Amanda",
+    "price": "$2.620,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino 00000 Vanguardia 500Gr",
+    "title": "25 UN",
+    "price": "$990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Crema Vegetales",
+    "title": "Tosti",
+    "price": "$1.200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Salvado S/Sal",
+    "title": "140 GR",
+    "price": "$1.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Milka Mousse De Vainilla Rellenas De Chocolate 116 G",
+    "title": "Cachamate",
+    "price": "$1.189,99",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Cabello De Angel Matarazzo 500Gr",
+    "title": "500 GR",
+    "price": "$2.410,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Chispas Chocol",
+    "title": "Cosaco",
+    "price": "$1.720,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pepas De Membrillo",
+    "title": "25 GR",
+    "price": "$1.145,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gall Oblea Choco Creamy",
+    "title": "Bc",
+    "price": "$1.320,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalena Rellena Con Chocolate",
+    "title": "390 GR",
+    "price": "$1.529,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Oreo Rellenas Con Crema De Frutilla",
+    "title": "Vanguardia",
+    "price": "$1.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino",
+    "title": "500 GR",
+    "price": "$1.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nachos Originales",
+    "title": "Knorr",
+    "price": "$1.660,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Pay",
+    "title": "60 GR",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Porotos Alubias Secos",
+    "title": "Camet",
+    "price": "$1.999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Fritas Onduladas Sabor Ketchup Primer Precio 90Gr",
+    "title": "330 GR",
+    "price": "$1.300,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Car Mast Acido Frambuesa",
+    "title": "Milka",
+    "price": "$1.130,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barrita Vegana Brownie",
+    "title": "116 GR",
+    "price": "$670,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Salvado C/Sal",
+    "title": "Matarazzo",
+    "price": "$1.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dulce De Leche Familiar Gandara 400Gr",
+    "title": "500 GR",
+    "price": "$2.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostadas De Arroz Clasica",
+    "title": "Toddy",
+    "price": "$2.250,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino Bolsa",
+    "title": "126 GR",
+    "price": "$2.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Bc De Naranja Arcor 390Gr",
+    "title": "Primer Precio",
+    "price": "$2.835,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Andresito 500Gr",
+    "title": "400 GR",
+    "price": "$2.899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideo Spaghettini Integr",
+    "title": "Cofler",
+    "price": "$1.680,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomitas De Eucalipto",
+    "title": "91 GR",
+    "price": "$560,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barrita Frutas Y Almendra",
+    "title": "Gaona",
+    "price": "$550,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Porotos Colorados",
+    "title": "220 GR",
+    "price": "$790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Para Hamburguesas Con Sesamo 4Unidades",
+    "title": "Oreo",
+    "price": "$2.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcocho Mate Hojaldrado Cuadrado Primer Precio 180Gr",
+    "title": "118 GR",
+    "price": "$499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Talitas C/Semillas",
+    "title": "Molinos ala",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Unión Liviana 500 G",
+    "title": "500 GR",
+    "price": "$2.639,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Obleas Duo Dos Chocolates",
+    "title": "Macritas",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Blanco",
+    "title": "150 GR",
+    "price": "$5.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cubanitos Avellana",
+    "title": "Quento",
+    "price": "$610,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalenas Vainilla",
+    "title": "110 GR",
+    "price": "$1.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereales Skarchitos",
+    "title": "Primer Precio",
+    "price": "$2.580,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino 00000",
+    "title": "500 GR",
+    "price": "$3.520,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Car Mast Acido Sandia",
+    "title": "Primer Precio",
+    "price": "$1.130,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Lactal Grande Igea 660Gr",
+    "title": "90 GR",
+    "price": "$3.949,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Mousse",
+    "title": "Bull dog",
+    "price": "$899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Mini Floras Primer Precio 300Gr",
+    "title": "75 GR",
+    "price": "$1.475,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Queso Chedar",
+    "title": "Laddubar",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Café Molido Clásico La Virginia X 250 G.",
+    "title": "30 GR",
+    "price": "$4.210,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Para Hamburguesa",
+    "title": "Camet",
+    "price": "$1.679,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostadas Clasicas",
+    "title": "330 GR",
+    "price": "$990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fetuccine Trigo Candeal",
+    "title": "Gandara",
+    "price": "$2.499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalenas Vainilla Con Dulce De Leche",
+    "title": "400 GR",
+    "price": "$1.850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalenas Con Frutilla",
+    "title": "Molino ala",
+    "price": "$1.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palitos Clasicos Salados",
+    "title": "100 GR",
+    "price": "$1.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barrita Vegana Arándanos",
+    "title": "Lucchetti",
+    "price": "$670,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barra De Cereal",
+    "title": "1 KG",
+    "price": "$589,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Cachamate Hierbas Rosas 500 G",
+    "title": "La Campagnola",
+    "price": "$2.069,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Express Clásicas",
+    "title": "390 GR",
+    "price": "$799,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Salvado",
+    "title": "Andresito",
+    "price": "$4.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palitos Cheddar",
+    "title": "500 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Frutilla+Fruta",
+    "title": "Matarazzo",
+    "price": "$3.220,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Oblea Triple Chocolate",
+    "title": "500 GR",
+    "price": "$759,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Maxialfajor Chocolate Blanco",
+    "title": "Billiken",
+    "price": "$899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Campo Amanda 1Kg",
+    "title": "30 GR",
+    "price": "$3.710,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Te En Saquitos Diamantado Taragüi X 100 Uni",
+    "title": "Flow",
+    "price": "$2.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "23 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Primer Precio",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "300 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pepas Alemanas",
+    "title": "Trio",
+    "price": "$1.155,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Codito",
+    "title": "300 GR",
+    "price": "$1.489,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barra Avena-Almen-Nuez",
+    "title": "Arcor",
+    "price": "$1.070,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mix Arveja Y Zanahoria",
+    "title": "500 GR",
+    "price": "$809,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mate Cocido En Saquitos Amanda",
+    "title": "Integra",
+    "price": "$945,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostada Fina Clasica",
+    "title": "41 GR",
+    "price": "$1.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Cachamate Sabor Coco 500 G",
+    "title": "Inalpa",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pimenton",
+    "title": "300 GR",
+    "price": "$490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Ciruela+Fru",
+    "title": "Amanda",
+    "price": "$2.620,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino 00000 Vanguardia 500Gr",
+    "title": "25 UN",
+    "price": "$990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Crema Vegetales",
+    "title": "Tosti",
+    "price": "$1.200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Salvado S/Sal",
+    "title": "140 GR",
+    "price": "$1.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Milka Mousse De Vainilla Rellenas De Chocolate 116 G",
+    "title": "Cachamate",
+    "price": "$1.189,99",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Cabello De Angel Matarazzo 500Gr",
+    "title": "500 GR",
+    "price": "$2.410,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Chispas Chocol",
+    "title": "Cosaco",
+    "price": "$1.720,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pepas De Membrillo",
+    "title": "25 GR",
+    "price": "$1.145,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gall Oblea Choco Creamy",
+    "title": "Bc",
+    "price": "$1.320,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalena Rellena Con Chocolate",
+    "title": "390 GR",
+    "price": "$1.529,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Oreo Rellenas Con Crema De Frutilla",
+    "title": "Vanguardia",
+    "price": "$1.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino",
+    "title": "500 GR",
+    "price": "$1.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nachos Originales",
+    "title": "Knorr",
+    "price": "$1.660,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Pay",
+    "title": "60 GR",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Porotos Alubias Secos",
+    "title": "Camet",
+    "price": "$1.999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Fritas Onduladas Sabor Ketchup Primer Precio 90Gr",
+    "title": "330 GR",
+    "price": "$1.300,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Car Mast Acido Frambuesa",
+    "title": "Milka",
+    "price": "$1.130,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barrita Vegana Brownie",
+    "title": "116 GR",
+    "price": "$670,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Salvado C/Sal",
+    "title": "Matarazzo",
+    "price": "$1.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dulce De Leche Familiar Gandara 400Gr",
+    "title": "500 GR",
+    "price": "$2.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostadas De Arroz Clasica",
+    "title": "Toddy",
+    "price": "$2.250,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino Bolsa",
+    "title": "126 GR",
+    "price": "$2.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Bc De Naranja Arcor 390Gr",
+    "title": "Primer Precio",
+    "price": "$2.835,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Andresito 500Gr",
+    "title": "400 GR",
+    "price": "$2.899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideo Spaghettini Integr",
+    "title": "Cofler",
+    "price": "$1.680,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomitas De Eucalipto",
+    "title": "91 GR",
+    "price": "$560,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barrita Frutas Y Almendra",
+    "title": "Gaona",
+    "price": "$550,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Porotos Colorados",
+    "title": "220 GR",
+    "price": "$790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Para Hamburguesas Con Sesamo 4Unidades",
+    "title": "Oreo",
+    "price": "$2.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcocho Mate Hojaldrado Cuadrado Primer Precio 180Gr",
+    "title": "118 GR",
+    "price": "$499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Talitas C/Semillas",
+    "title": "Molinos ala",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Unión Liviana 500 G",
+    "title": "500 GR",
+    "price": "$2.639,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Obleas Duo Dos Chocolates",
+    "title": "Macritas",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Blanco",
+    "title": "150 GR",
+    "price": "$5.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cubanitos Avellana",
+    "title": "Quento",
+    "price": "$610,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalenas Vainilla",
+    "title": "110 GR",
+    "price": "$1.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereales Skarchitos",
+    "title": "Primer Precio",
+    "price": "$2.580,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino 00000",
+    "title": "500 GR",
+    "price": "$3.520,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Car Mast Acido Sandia",
+    "title": "Primer Precio",
+    "price": "$1.130,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Lactal Grande Igea 660Gr",
+    "title": "90 GR",
+    "price": "$3.949,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Mousse",
+    "title": "Bull dog",
+    "price": "$899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Mini Floras Primer Precio 300Gr",
+    "title": "75 GR",
+    "price": "$1.475,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Queso Chedar",
+    "title": "Laddubar",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Café Molido Clásico La Virginia X 250 G.",
+    "title": "30 GR",
+    "price": "$4.210,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Para Hamburguesa",
+    "title": "Camet",
+    "price": "$1.679,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostadas Clasicas",
+    "title": "330 GR",
+    "price": "$990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fetuccine Trigo Candeal",
+    "title": "Gandara",
+    "price": "$2.499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalenas Vainilla Con Dulce De Leche",
+    "title": "400 GR",
+    "price": "$1.850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalenas Con Frutilla",
+    "title": "Molino ala",
+    "price": "$1.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palitos Clasicos Salados",
+    "title": "100 GR",
+    "price": "$1.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barrita Vegana Arándanos",
+    "title": "Lucchetti",
+    "price": "$670,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barra De Cereal",
+    "title": "1 KG",
+    "price": "$589,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Cachamate Hierbas Rosas 500 G",
+    "title": "La Campagnola",
+    "price": "$2.069,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Express Clásicas",
+    "title": "390 GR",
+    "price": "$799,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Salvado",
+    "title": "Andresito",
+    "price": "$4.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palitos Cheddar",
+    "title": "500 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Frutilla+Fruta",
+    "title": "Matarazzo",
+    "price": "$3.220,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Oblea Triple Chocolate",
+    "title": "500 GR",
+    "price": "$759,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Maxialfajor Chocolate Blanco",
+    "title": "Billiken",
+    "price": "$899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Campo Amanda 1Kg",
+    "title": "30 GR",
+    "price": "$3.710,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Te En Saquitos Diamantado Taragüi X 100 Uni",
+    "title": "Flow",
+    "price": "$2.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "23 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Primer Precio",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "300 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pepas Alemanas",
+    "title": "Trio",
+    "price": "$1.155,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Codito",
+    "title": "300 GR",
+    "price": "$1.489,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barra Avena-Almen-Nuez",
+    "title": "Arcor",
+    "price": "$1.070,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mix Arveja Y Zanahoria",
+    "title": "500 GR",
+    "price": "$809,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mate Cocido En Saquitos Amanda",
+    "title": "Integra",
+    "price": "$945,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostada Fina Clasica",
+    "title": "41 GR",
+    "price": "$1.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Cachamate Sabor Coco 500 G",
+    "title": "Inalpa",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pimenton",
+    "title": "300 GR",
+    "price": "$490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Ciruela+Fru",
+    "title": "Amanda",
+    "price": "$2.620,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino 00000 Vanguardia 500Gr",
+    "title": "25 UN",
+    "price": "$990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Crema Vegetales",
+    "title": "Tosti",
+    "price": "$1.200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Salvado S/Sal",
+    "title": "140 GR",
+    "price": "$1.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Milka Mousse De Vainilla Rellenas De Chocolate 116 G",
+    "title": "Cachamate",
+    "price": "$1.189,99",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Cabello De Angel Matarazzo 500Gr",
+    "title": "500 GR",
+    "price": "$2.410,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Chispas Chocol",
+    "title": "Cosaco",
+    "price": "$1.720,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pepas De Membrillo",
+    "title": "25 GR",
+    "price": "$1.145,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gall Oblea Choco Creamy",
+    "title": "Bc",
+    "price": "$1.320,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalena Rellena Con Chocolate",
+    "title": "390 GR",
+    "price": "$1.529,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Oreo Rellenas Con Crema De Frutilla",
+    "title": "Vanguardia",
+    "price": "$1.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino",
+    "title": "500 GR",
+    "price": "$1.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nachos Originales",
+    "title": "Knorr",
+    "price": "$1.660,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Pay",
+    "title": "60 GR",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Porotos Alubias Secos",
+    "title": "Camet",
+    "price": "$1.999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Fritas Onduladas Sabor Ketchup Primer Precio 90Gr",
+    "title": "330 GR",
+    "price": "$1.300,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Car Mast Acido Frambuesa",
+    "title": "Milka",
+    "price": "$1.130,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barrita Vegana Brownie",
+    "title": "116 GR",
+    "price": "$670,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Salvado C/Sal",
+    "title": "Matarazzo",
+    "price": "$1.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dulce De Leche Familiar Gandara 400Gr",
+    "title": "500 GR",
+    "price": "$2.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostadas De Arroz Clasica",
+    "title": "Toddy",
+    "price": "$2.250,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino Bolsa",
+    "title": "126 GR",
+    "price": "$2.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Bc De Naranja Arcor 390Gr",
+    "title": "Primer Precio",
+    "price": "$2.835,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Andresito 500Gr",
+    "title": "400 GR",
+    "price": "$2.899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideo Spaghettini Integr",
+    "title": "Cofler",
+    "price": "$1.680,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gomitas De Eucalipto",
+    "title": "91 GR",
+    "price": "$560,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barrita Frutas Y Almendra",
+    "title": "Gaona",
+    "price": "$550,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Porotos Colorados",
+    "title": "220 GR",
+    "price": "$790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Para Hamburguesas Con Sesamo 4Unidades",
+    "title": "Oreo",
+    "price": "$2.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcocho Mate Hojaldrado Cuadrado Primer Precio 180Gr",
+    "title": "118 GR",
+    "price": "$499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Talitas C/Semillas",
+    "title": "Molinos ala",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Unión Liviana 500 G",
+    "title": "500 GR",
+    "price": "$2.639,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Obleas Duo Dos Chocolates",
+    "title": "Macritas",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Blanco",
+    "title": "150 GR",
+    "price": "$5.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cubanitos Avellana",
+    "title": "Quento",
+    "price": "$610,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalenas Vainilla",
+    "title": "110 GR",
+    "price": "$1.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereales Skarchitos",
+    "title": "Primer Precio",
+    "price": "$2.580,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino 00000",
+    "title": "500 GR",
+    "price": "$3.520,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Car Mast Acido Sandia",
+    "title": "Primer Precio",
+    "price": "$1.130,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Lactal Grande Igea 660Gr",
+    "title": "90 GR",
+    "price": "$3.949,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor Mousse",
+    "title": "Bull dog",
+    "price": "$899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Mini Floras Primer Precio 300Gr",
+    "title": "75 GR",
+    "price": "$1.475,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Queso Chedar",
+    "title": "Laddubar",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Café Molido Clásico La Virginia X 250 G.",
+    "title": "30 GR",
+    "price": "$4.210,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Para Hamburguesa",
+    "title": "Camet",
+    "price": "$1.679,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostadas Clasicas",
+    "title": "330 GR",
+    "price": "$990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fetuccine Trigo Candeal",
+    "title": "Gandara",
+    "price": "$2.499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalenas Vainilla Con Dulce De Leche",
+    "title": "400 GR",
+    "price": "$1.850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalenas Con Frutilla",
+    "title": "Molino ala",
+    "price": "$1.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palitos Clasicos Salados",
+    "title": "100 GR",
+    "price": "$1.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barrita Vegana Arándanos",
+    "title": "Lucchetti",
+    "price": "$670,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barra De Cereal",
+    "title": "1 KG",
+    "price": "$589,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Cachamate Hierbas Rosas 500 G",
+    "title": "La Campagnola",
+    "price": "$2.069,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Express Clásicas",
+    "title": "390 GR",
+    "price": "$799,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Salvado",
+    "title": "Andresito",
+    "price": "$4.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palitos Cheddar",
+    "title": "500 GR",
+    "price": "$1.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Frutilla+Fruta",
+    "title": "Matarazzo",
+    "price": "$3.220,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Oblea Triple Chocolate",
+    "title": "500 GR",
+    "price": "$759,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Maxialfajor Chocolate Blanco",
+    "title": "Billiken",
+    "price": "$899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Campo Amanda 1Kg",
+    "title": "30 GR",
+    "price": "$3.710,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Te En Saquitos Diamantado Taragüi X 100 Uni",
+    "title": "Flow",
+    "price": "$2.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "23 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Primer Precio",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "300 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arvejas Secas",
+    "title": "La Campagnola",
+    "price": "$1.179,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Spaghetti Morron",
+    "title": "300 GR",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Spaghetti",
+    "title": "Rina Matarazzo",
+    "price": "$2.000,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Turron De Mani Con Miel",
+    "title": "500 GR",
+    "price": "$429,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideo Tirabuzon Integral",
+    "title": "Rina Matarazzo",
+    "price": "$1.680,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate 4Flex Liviana Unión 1 Kg",
+    "title": "500 GR",
+    "price": "$4.569,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barra Cereal Light Manzan",
+    "title": "Bonafide",
+    "price": "$849,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Hamburguesas Papa",
+    "title": "80 GR",
+    "price": "$3.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Anillos De Cereal Frutales Primer Precio",
+    "title": "Matarazzo",
+    "price": "$1.011,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Seleccion",
+    "title": "500 GR",
+    "price": "$1.989,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Sabor Naranja Cbse X 500 Grs.",
+    "title": "Union",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Suave Amanda 1Kg",
+    "title": "1 KG",
+    "price": "$4.150,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Salsa Filetto Balance",
+    "title": "Cereal mix",
+    "price": "$1.020,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Magdalena Vainilla Con Chips Chocolate",
+    "title": "23 GR",
+    "price": "$1.850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Rell Membrillo",
+    "title": "Bimbo Artesano",
+    "price": "$1.370,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mayonesa Light M Caloria",
+    "title": "240 GR",
+    "price": "$2.449,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Saborizador Champignon",
+    "title": "Primer Precio",
+    "price": "$1.299,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Buenas Y Santas De Hierbas 500 G",
+    "title": "160 GR",
+    "price": "$2.460,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gelatina Light Durazno",
+    "title": "Nobleza Gaucha",
+    "price": "$1.249,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Choc C/Chip Choc",
+    "title": "500 GR",
+    "price": "$2.035,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Damasco + Fruta Arcor 454 Gr.",
+    "title": "Cbse",
+    "price": "$2.370,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Capelettini Verdura Giacomo 500 Gr.",
+    "title": "500 GR",
+    "price": "$3.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bolitas De Cereal Chocolino 200Gr",
+    "title": "Amanda",
+    "price": "$1.969,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Postre Sabor Original",
+    "title": "1 KG",
+    "price": "$749,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Hamburguesa",
+    "title": "Knorr",
+    "price": "$2.149,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pimienta Negra En Grano",
+    "title": "340 GR",
+    "price": "$1.120,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Té Silvestre Mezcla De Hierbas Taragui 25Un",
+    "title": "Don Satur",
+    "price": "$1.499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Vainilla Relleno De Dulce De Leche",
+    "title": "200 GR",
+    "price": "$1.900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Perejil",
+    "title": "Primer Precio",
+    "price": "$610,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Te De Boldo En Saquitos",
+    "title": "400 GR",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aros Con Miel Granix 130Gr",
+    "title": "Hellmann's",
+    "price": "$1.179,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletita Rellena Chocolate",
+    "title": "950 GR",
+    "price": "$530,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Larguitos Hojaldrados",
+    "title": "Alicante",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sardinas En Aceite",
+    "title": "32 GR",
+    "price": "$1.835,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Copos Maiz",
+    "title": "Buenas y Santas",
+    "price": "$935,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Choclo Amarillo Grano Ent",
+    "title": "500 GR",
+    "price": "$1.699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Frutilla + Fruta La Campagnola 454 Gr.",
+    "title": "Exquisita",
+    "price": "$3.200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Veggie Snacks Sabor Barba",
+    "title": "150 GR",
+    "price": "$1.520,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sal Fina De Mesa",
+    "title": "100 Ducados",
+    "price": "$1.500,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Batatas Quento 130 Gr.",
+    "title": "300 GR",
+    "price": "$1.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Choclo/Perejil 5 Sob",
+    "title": "Arcor",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcocho De Arroz Salados",
+    "title": "454 GR",
+    "price": "$1.605,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cuadradas S/Sal C/Semilla",
+    "title": "Giacomo",
+    "price": "$1.110,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gallet Snacks Parmesano",
+    "title": "500 GR",
+    "price": "$1.120,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palmeritas Veggies",
+    "title": "Chocolino",
+    "price": "$1.459,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcocho De Arroz Tortita Negra",
+    "title": "200 GR",
+    "price": "$1.765,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostada Fina Multicereal",
+    "title": "Nucrem Georgalo",
+    "price": "$1.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Rallado Con Ajo Y Perejil Igea 500Gr",
+    "title": "84 GR",
+    "price": "$1.859,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite Mezcla Especial",
+    "title": "Fargo",
+    "price": "$3.868,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo 4Flex",
+    "title": "210 GR",
+    "price": "$4.450,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite Oliva Extra Virgen Picual",
+    "title": "Cosaco",
+    "price": "$9.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Vain Rell Marroc",
+    "title": "25 GR",
+    "price": "$1.900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Avena Y Pasas",
+    "title": "Taragui",
+    "price": "$1.485,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Postre Vainilla",
+    "title": "25 UN",
+    "price": "$750,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Campo Original La Merced 500Gr",
+    "title": "100 Ducados",
+    "price": "$3.910,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Vainil C/Frut Sec",
+    "title": "300 GR",
+    "price": "$2.035,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcocho De Arroz Dulces",
+    "title": "Primer Precio",
+    "price": "$1.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Para Superpanchos 6 U",
+    "title": "25 GR",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Merm Artesanal F Rojos",
+    "title": "Primer Precio",
+    "price": "$3.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Ketchup Hot La Campagnola 250Gr",
+    "title": "25 UN",
+    "price": "$900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Postre Dulce De Leche",
+    "title": "Granix",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereal Fibra Total",
+    "title": "130 GR",
+    "price": "$1.569,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Veggie Snacks Sabor Pizza",
+    "title": "Pamela",
+    "price": "$1.460,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Black Tortitas",
+    "title": "97 GR",
+    "price": "$855,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite Oliva Ext Virg Pet",
+    "title": "Hojalmar",
+    "price": "$9.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Edulcorante Líquido Chuker Stevia 200 Cc",
+    "title": "250 GR",
+    "price": "$3.815,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cracker Maiz Papa Y Guaca",
+    "title": "Puglisi",
+    "price": "$1.170,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Salsa Pomodoro C/Zapallo",
+    "title": "170 GR",
+    "price": "$1.000,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino",
+    "title": "Primer Precio",
+    "price": "$3.735,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "150 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Inalpa",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "364 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Choc C/Chip Choc",
+    "title": "100 Ducados",
+    "price": "$2.035,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Damasco + Fruta Arcor 454 Gr.",
+    "title": "300 GR",
+    "price": "$2.370,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Capelettini Verdura Giacomo 500 Gr.",
+    "title": "Arcor",
+    "price": "$3.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bolitas De Cereal Chocolino 200Gr",
+    "title": "454 GR",
+    "price": "$1.969,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Postre Sabor Original",
+    "title": "Giacomo",
+    "price": "$749,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Hamburguesa",
+    "title": "500 GR",
+    "price": "$2.149,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pimienta Negra En Grano",
+    "title": "Chocolino",
+    "price": "$1.120,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Té Silvestre Mezcla De Hierbas Taragui 25Un",
+    "title": "200 GR",
+    "price": "$1.499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Vainilla Relleno De Dulce De Leche",
+    "title": "Nucrem Georgalo",
+    "price": "$1.900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Perejil",
+    "title": "84 GR",
+    "price": "$610,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Te De Boldo En Saquitos",
+    "title": "Fargo",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aros Con Miel Granix 130Gr",
+    "title": "210 GR",
+    "price": "$1.179,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletita Rellena Chocolate",
+    "title": "Cosaco",
+    "price": "$530,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Larguitos Hojaldrados",
+    "title": "25 GR",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sardinas En Aceite",
+    "title": "Taragui",
+    "price": "$1.835,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Copos Maiz",
+    "title": "25 UN",
+    "price": "$935,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Choclo Amarillo Grano Ent",
+    "title": "100 Ducados",
+    "price": "$1.699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Frutilla + Fruta La Campagnola 454 Gr.",
+    "title": "300 GR",
+    "price": "$3.200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Veggie Snacks Sabor Barba",
+    "title": "Primer Precio",
+    "price": "$1.520,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Choclo/Perejil 5 Sob",
+    "title": "25 GR",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcocho De Arroz Salados",
+    "title": "Primer Precio",
+    "price": "$1.605,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cuadradas S/Sal C/Semilla",
+    "title": "25 UN",
+    "price": "$1.110,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gallet Snacks Parmesano",
+    "title": "Granix",
+    "price": "$1.120,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palmeritas Veggies",
+    "title": "130 GR",
+    "price": "$1.459,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcocho De Arroz Tortita Negra",
+    "title": "Pamela",
+    "price": "$1.765,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostada Fina Multicereal",
+    "title": "97 GR",
+    "price": "$1.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Rallado Con Ajo Y Perejil Igea 500Gr",
+    "title": "Hojalmar",
+    "price": "$1.859,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite Mezcla Especial",
+    "title": "250 GR",
+    "price": "$3.868,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo 4Flex",
+    "title": "Puglisi",
+    "price": "$4.450,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite Oliva Extra Virgen Picual",
+    "title": "170 GR",
+    "price": "$9.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Vain Rell Marroc",
+    "title": "Primer Precio",
+    "price": "$1.900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Avena Y Pasas",
+    "title": "150 GR",
+    "price": "$1.485,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Postre Vainilla",
+    "title": "Inalpa",
+    "price": "$750,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Campo Original La Merced 500Gr",
+    "title": "364 GR",
+    "price": "$3.910,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Vainil C/Frut Sec",
+    "title": "La Campagnola",
+    "price": "$2.035,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcocho De Arroz Dulces",
+    "title": "454 GR",
+    "price": "$1.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Para Superpanchos 6 U",
+    "title": "Granix",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Merm Artesanal F Rojos",
+    "title": "90 GR",
+    "price": "$3.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Ketchup Hot La Campagnola 250Gr",
+    "title": "Knorr Quick",
+    "price": "$900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Postre Dulce De Leche",
+    "title": "63 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereal Fibra Total",
+    "title": "Gallo Snacks",
+    "price": "$1.569,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Veggie Snacks Sabor Pizza",
+    "title": "100 GR",
+    "price": "$1.460,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Black Tortitas",
+    "title": "Risky-Dit",
+    "price": "$855,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite Oliva Ext Virg Pet",
+    "title": "90 GR",
+    "price": "$9.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Edulcorante Líquido Chuker Stevia 200 Cc",
+    "title": "Saladix",
+    "price": "$3.815,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cracker Maiz Papa Y Guaca",
+    "title": "100 GR",
+    "price": "$1.170,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Salsa Pomodoro C/Zapallo",
+    "title": "Hojalmar",
+    "price": "$1.000,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino",
+    "title": "150 GR",
+    "price": "$3.735,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Con Marroc",
+    "title": "Gallo Snacks",
+    "price": "$1.320,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mostachol Al Huevo Nº 51",
+    "title": "100 GR",
+    "price": "$1.500,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Fritas Primer Precio 475Gr",
+    "title": "Tosti",
+    "price": "$4.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tirabuzon Al Huevo Nº 34",
+    "title": "140 GR",
+    "price": "$1.500,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Hamburguesas Grande Sin Sesamo 4Unidades",
+    "title": "Igea",
+    "price": "$2.409,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mate Cocido En Saquitos",
+    "title": "500 GR",
+    "price": "$830,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Trigo Inflado Azucarado",
+    "title": "Lira",
+    "price": "$1.059,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nescafé Dolca Choco Mocha Doy Pack125",
+    "title": "900 ML",
+    "price": "$3.000,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sardina Ecuatoriana",
+    "title": "Taragui",
+    "price": "$1.499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nuez Moscada",
+    "title": "1 KG",
+    "price": "$912,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Capelettini Jamón Y Queso Giacomo 500 Gr.",
+    "title": "Areco",
+    "price": "$3.625,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Edulcorante Líquido Chuker Stevia 400 Cc",
+    "title": "500 ML",
+    "price": "$5.660,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Condimento Para Pizza",
+    "title": "100 Ducados",
+    "price": "$630,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Damasco + Fruta La Campagnola 454 Gr.",
+    "title": "300 GR",
+    "price": "$2.534,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Postre Light Dulce De Leche",
+    "title": "Gaona vida sana",
+    "price": "$1.039,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nido Fettuccine Nutri Vit Plus",
+    "title": "186 GR",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Frambuesa",
+    "title": "Godet",
+    "price": "$2.739,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Esencia De Vainilla Dos Anclas 250Gr",
+    "title": "60 GR",
+    "price": "$1.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pasta De Mani C/Coco",
+    "title": "La Merced",
+    "price": "$3.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nacho Cheddar Melt",
+    "title": "500 GR",
+    "price": "$1.170,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Miel Liquida",
+    "title": "100 Ducados",
+    "price": "$3.690,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "300 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Gallo Snacks",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "100 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Choc C/Chip Choc",
+    "title": "100 Ducados",
+    "price": "$2.035,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Damasco + Fruta Arcor 454 Gr.",
+    "title": "300 GR",
+    "price": "$2.370,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Capelettini Verdura Giacomo 500 Gr.",
+    "title": "Arcor",
+    "price": "$3.430,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bolitas De Cereal Chocolino 200Gr",
+    "title": "454 GR",
+    "price": "$1.969,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Postre Sabor Original",
+    "title": "Giacomo",
+    "price": "$749,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Hamburguesa",
+    "title": "500 GR",
+    "price": "$2.149,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pimienta Negra En Grano",
+    "title": "Chocolino",
+    "price": "$1.120,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Té Silvestre Mezcla De Hierbas Taragui 25Un",
+    "title": "200 GR",
+    "price": "$1.499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Vainilla Relleno De Dulce De Leche",
+    "title": "Nucrem Georgalo",
+    "price": "$1.900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Perejil",
+    "title": "84 GR",
+    "price": "$610,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Te De Boldo En Saquitos",
+    "title": "Fargo",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aros Con Miel Granix 130Gr",
+    "title": "210 GR",
+    "price": "$1.179,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletita Rellena Chocolate",
+    "title": "Cosaco",
+    "price": "$530,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Larguitos Hojaldrados",
+    "title": "25 GR",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sardinas En Aceite",
+    "title": "Taragui",
+    "price": "$1.835,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Copos Maiz",
+    "title": "25 UN",
+    "price": "$935,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Choclo Amarillo Grano Ent",
+    "title": "100 Ducados",
+    "price": "$1.699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Frutilla + Fruta La Campagnola 454 Gr.",
+    "title": "300 GR",
+    "price": "$3.200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Veggie Snacks Sabor Barba",
+    "title": "Primer Precio",
+    "price": "$1.520,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Choclo/Perejil 5 Sob",
+    "title": "25 GR",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcocho De Arroz Salados",
+    "title": "Primer Precio",
+    "price": "$1.605,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cuadradas S/Sal C/Semilla",
+    "title": "25 UN",
+    "price": "$1.110,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gallet Snacks Parmesano",
+    "title": "Granix",
+    "price": "$1.120,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palmeritas Veggies",
+    "title": "130 GR",
+    "price": "$1.459,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcocho De Arroz Tortita Negra",
+    "title": "Pamela",
+    "price": "$1.765,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tostada Fina Multicereal",
+    "title": "97 GR",
+    "price": "$1.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Rallado Con Ajo Y Perejil Igea 500Gr",
+    "title": "Hojalmar",
+    "price": "$1.859,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite Mezcla Especial",
+    "title": "250 GR",
+    "price": "$3.868,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo 4Flex",
+    "title": "Puglisi",
+    "price": "$4.450,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite Oliva Extra Virgen Picual",
+    "title": "170 GR",
+    "price": "$9.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Vain Rell Marroc",
+    "title": "Primer Precio",
+    "price": "$1.900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Avena Y Pasas",
+    "title": "150 GR",
+    "price": "$1.485,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Postre Vainilla",
+    "title": "Inalpa",
+    "price": "$750,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Campo Original La Merced 500Gr",
+    "title": "364 GR",
+    "price": "$3.910,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Vainil C/Frut Sec",
+    "title": "La Campagnola",
+    "price": "$2.035,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bizcocho De Arroz Dulces",
+    "title": "454 GR",
+    "price": "$1.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Para Superpanchos 6 U",
+    "title": "Granix",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Merm Artesanal F Rojos",
+    "title": "90 GR",
+    "price": "$3.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Ketchup Hot La Campagnola 250Gr",
+    "title": "Knorr Quick",
+    "price": "$900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Postre Dulce De Leche",
+    "title": "63 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereal Fibra Total",
+    "title": "Gallo Snacks",
+    "price": "$1.569,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Veggie Snacks Sabor Pizza",
+    "title": "100 GR",
+    "price": "$1.460,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Black Tortitas",
+    "title": "Risky-Dit",
+    "price": "$855,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite Oliva Ext Virg Pet",
+    "title": "90 GR",
+    "price": "$9.190,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Edulcorante Líquido Chuker Stevia 200 Cc",
+    "title": "Saladix",
+    "price": "$3.815,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cracker Maiz Papa Y Guaca",
+    "title": "100 GR",
+    "price": "$1.170,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Salsa Pomodoro C/Zapallo",
+    "title": "Hojalmar",
+    "price": "$1.000,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Arroz Largo Fino",
+    "title": "150 GR",
+    "price": "$3.735,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Con Marroc",
+    "title": "Gallo Snacks",
+    "price": "$1.320,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mostachol Al Huevo Nº 51",
+    "title": "100 GR",
+    "price": "$1.500,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papas Fritas Primer Precio 475Gr",
+    "title": "Tosti",
+    "price": "$4.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Tirabuzon Al Huevo Nº 34",
+    "title": "140 GR",
+    "price": "$1.500,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pan Hamburguesas Grande Sin Sesamo 4Unidades",
+    "title": "Igea",
+    "price": "$2.409,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mate Cocido En Saquitos",
+    "title": "500 GR",
+    "price": "$830,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Trigo Inflado Azucarado",
+    "title": "Lira",
+    "price": "$1.059,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nescafé Dolca Choco Mocha Doy Pack125",
+    "title": "900 ML",
+    "price": "$3.000,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sardina Ecuatoriana",
+    "title": "Taragui",
+    "price": "$1.499,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nuez Moscada",
+    "title": "1 KG",
+    "price": "$912,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Capelettini Jamón Y Queso Giacomo 500 Gr.",
+    "title": "Areco",
+    "price": "$3.625,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Edulcorante Líquido Chuker Stevia 400 Cc",
+    "title": "500 ML",
+    "price": "$5.660,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Condimento Para Pizza",
+    "title": "100 Ducados",
+    "price": "$630,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Damasco + Fruta La Campagnola 454 Gr.",
+    "title": "300 GR",
+    "price": "$2.534,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Postre Light Dulce De Leche",
+    "title": "Gaona vida sana",
+    "price": "$1.039,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nido Fettuccine Nutri Vit Plus",
+    "title": "186 GR",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Frambuesa",
+    "title": "Godet",
+    "price": "$2.739,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Esencia De Vainilla Dos Anclas 250Gr",
+    "title": "60 GR",
+    "price": "$1.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pasta De Mani C/Coco",
+    "title": "La Merced",
+    "price": "$3.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nacho Cheddar Melt",
+    "title": "500 GR",
+    "price": "$1.170,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Miel Liquida",
+    "title": "100 Ducados",
+    "price": "$3.690,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "300 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Gallo Snacks",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "100 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fusilli",
+    "title": "Rina Matarazzo",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Atun Sin Sal Al Agua",
+    "title": "500 GR",
+    "price": "$3.690,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pulpa De Tomate Premium",
+    "title": "Puglisi",
+    "price": "$3.299,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceitunas Verdes Rodajas",
+    "title": "170 GR",
+    "price": "$1.970,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Premezcla Para Ñoquis De Papa Sin Tacc Arcor 400Gr",
+    "title": "Casa d la Torre",
+    "price": "$2.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Popcorns Mant Light",
+    "title": "910 GR",
+    "price": "$1.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dulce De Leche Con Crema",
+    "title": "Castell",
+    "price": "$2.815,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cappuccino La Virginia Dulce De Leche Doy Pack 155G",
+    "title": "150 GR",
+    "price": "$3.750,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cappuccino Espuma De Vainilla La Virginia Doy Pack",
+    "title": "Arcor",
+    "price": "$3.705,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina Trigo Sarrraceno",
+    "title": "400 GR",
+    "price": "$2.560,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Flan Dulce De Leche Nueva Formula",
+    "title": "Marloms",
+    "price": "$590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dulce De Leche Lib Gluten",
+    "title": "90 GR",
+    "price": "$3.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina De Almendra",
+    "title": "La Cremeria",
+    "price": "$3.020,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Madalenas De Chocolate Rellenas Con Dulce De Leche",
+    "title": "320 GR",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Granola Almendras Y Pasas",
+    "title": "La Virginia",
+    "price": "$3.879,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sal Marina Fina Dicomere 450Gr",
+    "title": "155 GR",
+    "price": "$2.600,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Snack Sabor Queso S/Tacc",
+    "title": "La Virginia",
+    "price": "$975,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cubanito Pasta Cafe",
+    "title": "155 GR",
+    "price": "$770,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Light Ciruela",
+    "title": "Dicomere",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Monte Original La Merced 500Gr",
+    "title": "450 GR",
+    "price": "$3.910,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Coco Rallado Sin Tacc",
+    "title": "Godet",
+    "price": "$990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Avena Tradicional Instantanea",
+    "title": "25 GR",
+    "price": "$3.200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Avena Integral Instantánea Quaker 470 Gr.",
+    "title": "Cosaco",
+    "price": "$2.850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Granola Berries Mini",
+    "title": "450 GR",
+    "price": "$1.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Capuccino Latte Dp",
+    "title": "Cosaco",
+    "price": "$3.289,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Capelletini Verdura Con Vitaminas Giacomo 250 Gr.",
+    "title": "200 GR",
+    "price": "$2.189,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceitunas Verd Ajo Dp",
+    "title": "Bimbo",
+    "price": "$1.750,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tirabuzon Fortific",
+    "title": "190 GR",
+    "price": "$2.129,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bicarbonato De Sodio",
+    "title": "Granix",
+    "price": "$549,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Hummus De Remolacha",
+    "title": "350 GR",
+    "price": "$1.089,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas De Arroz Nueva",
+    "title": "Dicomere",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alcaparras Cumana-Jandaia 100Gr",
+    "title": "450 GR",
+    "price": "$2.699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Maiz Pisingallo",
+    "title": "Smams",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Veganas",
+    "title": "80 GR",
+    "price": "$1.600,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bolsa Para Horno Con Romero Y Tomillo",
+    "title": "Arbanit",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Granola Frutos Rojos",
+    "title": "28 GR",
+    "price": "$3.670,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Café Instantáneo Clásico Especial La Virginia 170 Gr.",
+    "title": "Arcor",
+    "price": "$7.280,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Atún Sin Sal En Aceite Puglisi 170Gr",
+    "title": "390 GR",
+    "price": "$3.690,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pastillas Rueditas",
+    "title": "La Merced",
+    "price": "$560,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cappuccino La Morenita Doy Pack",
+    "title": "500 GR",
+    "price": "$3.335,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Rigatti",
+    "title": "Dicomere",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palitos Salados Libre De Gluten",
+    "title": "50 GR",
+    "price": "$1.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Granola Tradicional Mini",
+    "title": "Quaker",
+    "price": "$1.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Granola Energetica",
+    "title": "550 GR",
+    "price": "$2.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada De Higo Light Sin Tacc La Peregrina 430Gr",
+    "title": "Quaker",
+    "price": "$4.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barr Arroz Choblanco X3",
+    "title": "470 GR",
+    "price": "$809,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Compuesta Con Hierbas Serena",
+    "title": "Kos food",
+    "price": "$5.500,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nuez Moscada Molida",
+    "title": "150 GR",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Picas Sabor Mani",
+    "title": "La Virginia",
+    "price": "$629,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Baño Repo Chocolate",
+    "title": "125 GR",
+    "price": "$2.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Vegetales Balance",
+    "title": "Giacomo",
+    "price": "$1.360,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Rallado Vegano Sintacc Sabor A Queso",
+    "title": "250 GR",
+    "price": "$1.230,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceitunas Verd Ahum Dp",
+    "title": "Castell",
+    "price": "$1.865,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceire Girasol Lira 900Ml",
+    "title": "110 GR",
+    "price": "$2.300,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palmitos Enteros",
+    "title": "Don Felipe",
+    "price": "$4.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Avena Instantanea",
+    "title": "500 GR",
+    "price": "$3.150,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alf Vegano Pistacho",
+    "title": "Dos Anclas",
+    "price": "$1.189,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mini Galletitas Chips Chocolate",
+    "title": "25 GR",
+    "price": "$849,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Café Instantáneo Suave Especial La Virginia 170 Gr.",
+    "title": "Natural pop",
+    "price": "$6.289,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Frasco De Azucar Macabo Cosaco",
+    "title": "100 GR",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chips Crema Y Cebolla",
+    "title": "Gallo Crackeada",
+    "price": "$1.999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Endulzante Liquido Sweet Tuy Botella X 200Cc",
+    "title": "100 GR",
+    "price": "$2.035,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Edulcorante En Sobres",
+    "title": "Cumana",
+    "price": "$7.600,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mani Saborizado Panceta",
+    "title": "100 GR",
+    "price": "$1.639,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletas Mini Scon",
+    "title": "Mani king",
+    "price": "$1.150,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Vinagre De Manzana",
+    "title": "400 GR",
+    "price": "$2.719,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nuez Moscada",
+    "title": "Animalkind",
+    "price": "$1.610,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Rebozador",
+    "title": "170 GR",
+    "price": "$2.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina De Garb Organica",
+    "title": "Knorr",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereal Anil Fruta S/Tacc",
+    "title": "21 GR",
+    "price": "$1.899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mousse Dulce De Leche Granizado",
+    "title": "Granix",
+    "price": "$2.550,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "350 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "La Virginia",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "170 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fusilli",
+    "title": "Rina Matarazzo",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Atun Sin Sal Al Agua",
+    "title": "500 GR",
+    "price": "$3.690,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pulpa De Tomate Premium",
+    "title": "Puglisi",
+    "price": "$3.299,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceitunas Verdes Rodajas",
+    "title": "170 GR",
+    "price": "$1.970,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Premezcla Para Ñoquis De Papa Sin Tacc Arcor 400Gr",
+    "title": "Casa d la Torre",
+    "price": "$2.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Popcorns Mant Light",
+    "title": "910 GR",
+    "price": "$1.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dulce De Leche Con Crema",
+    "title": "Castell",
+    "price": "$2.815,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cappuccino La Virginia Dulce De Leche Doy Pack 155G",
+    "title": "150 GR",
+    "price": "$3.750,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cappuccino Espuma De Vainilla La Virginia Doy Pack",
+    "title": "Arcor",
+    "price": "$3.705,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina Trigo Sarrraceno",
+    "title": "400 GR",
+    "price": "$2.560,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Flan Dulce De Leche Nueva Formula",
+    "title": "Marloms",
+    "price": "$590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dulce De Leche Lib Gluten",
+    "title": "90 GR",
+    "price": "$3.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina De Almendra",
+    "title": "La Cremeria",
+    "price": "$3.020,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Madalenas De Chocolate Rellenas Con Dulce De Leche",
+    "title": "320 GR",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Granola Almendras Y Pasas",
+    "title": "La Virginia",
+    "price": "$3.879,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sal Marina Fina Dicomere 450Gr",
+    "title": "155 GR",
+    "price": "$2.600,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Snack Sabor Queso S/Tacc",
+    "title": "La Virginia",
+    "price": "$975,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cubanito Pasta Cafe",
+    "title": "155 GR",
+    "price": "$770,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Light Ciruela",
+    "title": "Dicomere",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Monte Original La Merced 500Gr",
+    "title": "450 GR",
+    "price": "$3.910,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Coco Rallado Sin Tacc",
+    "title": "Godet",
+    "price": "$990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Avena Tradicional Instantanea",
+    "title": "25 GR",
+    "price": "$3.200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Avena Integral Instantánea Quaker 470 Gr.",
+    "title": "Cosaco",
+    "price": "$2.850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Granola Berries Mini",
+    "title": "450 GR",
+    "price": "$1.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Capuccino Latte Dp",
+    "title": "Cosaco",
+    "price": "$3.289,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Capelletini Verdura Con Vitaminas Giacomo 250 Gr.",
+    "title": "200 GR",
+    "price": "$2.189,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceitunas Verd Ajo Dp",
+    "title": "Bimbo",
+    "price": "$1.750,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Tirabuzon Fortific",
+    "title": "190 GR",
+    "price": "$2.129,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bicarbonato De Sodio",
+    "title": "Granix",
+    "price": "$549,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Hummus De Remolacha",
+    "title": "350 GR",
+    "price": "$1.089,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas De Arroz Nueva",
+    "title": "Dicomere",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alcaparras Cumana-Jandaia 100Gr",
+    "title": "450 GR",
+    "price": "$2.699,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Maiz Pisingallo",
+    "title": "Smams",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletitas Veganas",
+    "title": "80 GR",
+    "price": "$1.600,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Bolsa Para Horno Con Romero Y Tomillo",
+    "title": "Arbanit",
+    "price": "$1.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Granola Frutos Rojos",
+    "title": "28 GR",
+    "price": "$3.670,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Café Instantáneo Clásico Especial La Virginia 170 Gr.",
+    "title": "Arcor",
+    "price": "$7.280,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Atún Sin Sal En Aceite Puglisi 170Gr",
+    "title": "390 GR",
+    "price": "$3.690,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pastillas Rueditas",
+    "title": "La Merced",
+    "price": "$560,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cappuccino La Morenita Doy Pack",
+    "title": "500 GR",
+    "price": "$3.335,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Rigatti",
+    "title": "Dicomere",
+    "price": "$2.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palitos Salados Libre De Gluten",
+    "title": "50 GR",
+    "price": "$1.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Granola Tradicional Mini",
+    "title": "Quaker",
+    "price": "$1.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Granola Energetica",
+    "title": "550 GR",
+    "price": "$2.890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada De Higo Light Sin Tacc La Peregrina 430Gr",
+    "title": "Quaker",
+    "price": "$4.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barr Arroz Choblanco X3",
+    "title": "470 GR",
+    "price": "$809,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Compuesta Con Hierbas Serena",
+    "title": "Kos food",
+    "price": "$5.500,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nuez Moscada Molida",
+    "title": "150 GR",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Picas Sabor Mani",
+    "title": "La Virginia",
+    "price": "$629,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Baño Repo Chocolate",
+    "title": "125 GR",
+    "price": "$2.990,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Vegetales Balance",
+    "title": "Giacomo",
+    "price": "$1.360,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Rallado Vegano Sintacc Sabor A Queso",
+    "title": "250 GR",
+    "price": "$1.230,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceitunas Verd Ahum Dp",
+    "title": "Castell",
+    "price": "$1.865,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceire Girasol Lira 900Ml",
+    "title": "110 GR",
+    "price": "$2.300,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palmitos Enteros",
+    "title": "Don Felipe",
+    "price": "$4.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Avena Instantanea",
+    "title": "500 GR",
+    "price": "$3.150,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alf Vegano Pistacho",
+    "title": "Dos Anclas",
+    "price": "$1.189,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mini Galletitas Chips Chocolate",
+    "title": "25 GR",
+    "price": "$849,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Café Instantáneo Suave Especial La Virginia 170 Gr.",
+    "title": "Natural pop",
+    "price": "$6.289,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Frasco De Azucar Macabo Cosaco",
+    "title": "100 GR",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Chips Crema Y Cebolla",
+    "title": "Gallo Crackeada",
+    "price": "$1.999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Endulzante Liquido Sweet Tuy Botella X 200Cc",
+    "title": "100 GR",
+    "price": "$2.035,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Edulcorante En Sobres",
+    "title": "Cumana",
+    "price": "$7.600,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mani Saborizado Panceta",
+    "title": "100 GR",
+    "price": "$1.639,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletas Mini Scon",
+    "title": "Mani king",
+    "price": "$1.150,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Vinagre De Manzana",
+    "title": "400 GR",
+    "price": "$2.719,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nuez Moscada",
+    "title": "Animalkind",
+    "price": "$1.610,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Rebozador",
+    "title": "170 GR",
+    "price": "$2.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina De Garb Organica",
+    "title": "Knorr",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereal Anil Fruta S/Tacc",
+    "title": "21 GR",
+    "price": "$1.899,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mousse Dulce De Leche Granizado",
+    "title": "Granix",
+    "price": "$2.550,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "350 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "La Virginia",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "170 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelad Artesan Frutilla",
+    "title": "La Campagnola",
+    "price": "$3.650,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Atun Desm Natural Ldg",
+    "title": "390 GR",
+    "price": "$2.289,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Premezcla Universal Base Multiple Para Panificados, Postres Y Pastas",
+    "title": "Lc del mar",
+    "price": "$3.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Rollo Gomitas Frutal",
+    "title": "170 GR",
+    "price": "$490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dulce De Leche La Serenisima Colonial 1Kg",
+    "title": "Dimax",
+    "price": "$6.829,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Rebozador Fortificado",
+    "title": "500 GR",
+    "price": "$3.390,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mermelada Damasco",
+    "title": "Billiken",
+    "price": "$2.200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Polvo Para Salsa Blanca",
+    "title": "35 GR",
+    "price": "$830,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite De Oliva Cocinero 250Cc",
+    "title": "La Serenisima",
+    "price": "$4.950,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletita Crunchips Mini",
+    "title": "1 KG",
+    "price": "$1.105,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceite Oliva Extra Virgen",
+    "title": "Preferido",
+    "price": "$5.830,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereales Chocoflakes 240Gr",
+    "title": "1 KG",
+    "price": "$1.545,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Atún Desmenuzado Agua/Aceite Libre De Gluten",
+    "title": "Emeth",
+    "price": "$2.289,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barra De Cereal Orig",
+    "title": "454 GR",
+    "price": "$419,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Barra De Cereal Original Cereal Mix 23Gr",
+    "title": "Dos Anclas",
+    "price": "$849,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cracker Maiz Calab Y Most",
+    "title": "40 GR",
+    "price": "$1.170,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Vinagre De Alcohol Marvavic 500Cc",
+    "title": "Cocinero",
+    "price": "$1.100,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa Zana Y Quinoa 5 Sob",
+    "title": "250 CC",
+    "price": "$1.690,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Con Palo Organica",
+    "title": "Gaona",
+    "price": "$3.399,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Café Molido Torrado La Virginia 500 Gr.",
+    "title": "90 GR",
+    "price": "$7.730,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Premezcla Sintacc Hummus Natural",
+    "title": "Cocinero",
+    "price": "$1.089,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sopa De Arvejas 5 Sobres",
+    "title": "250 ML",
+    "price": "$1.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Aceitunas Rell E/Salmuera",
+    "title": "Chocoflakes",
+    "price": "$1.500,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Spaguetti Al Huevo Nº 5",
+    "title": "240 GR",
+    "price": "$2.120,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pasta De Mani Crunchy",
+    "title": "Lc del mar",
+    "price": "$3.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pasta De Mani Nat C/Stevi",
+    "title": "170 GR",
+    "price": "$3.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Vinagre De Alcohol",
+    "title": "Crowie",
+    "price": "$960,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Anillos Froot Loops Bs",
+    "title": "25 GR",
+    "price": "$2.850,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Te E/Saq S/Sobreenvoltura",
+    "title": "Cereal mix",
+    "price": "$1.189,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Champignon Entero",
+    "title": "23 GR",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palmitos Enteros Cumana 396Gr",
+    "title": "Maixanas",
+    "price": "$2.999,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Edulcorante Líquido Tuy Clásico Pet 200 Cc",
+    "title": "70 GR",
+    "price": "$2.529,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Huevo De Chocolate",
+    "title": "Marvavic",
+    "price": "$3.749,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mani Frito Salado S/P Dp",
+    "title": "500 CC",
+    "price": "$4.290,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pasta De Mani",
+    "title": "Knorr Quick",
+    "price": "$3.790,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mousse Chocolate",
+    "title": "50 GR",
+    "price": "$2.550,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Fideos Al Huevo Moños",
+    "title": "Amanda",
+    "price": "$2.450,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Edulcorante Equalsweet Caja Sobres X 50",
+    "title": "500 GR",
+    "price": "$2.889,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Premezcla Exquisita Cookies Chocolate Con Chips 300Gr",
+    "title": "La Virginia",
+    "price": "$1.900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mate Cocido Cbsé Mix Favoritos 20 Unidades",
+    "title": "500 GR",
+    "price": "$1.169,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Anillos Froot Loops Bs",
+    "title": "Natural pop",
+    "price": "$4.350,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Cbse Cormillot Silueta 500 Gr",
+    "title": "105 GR",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cracker Maiz Remol Y Merk",
+    "title": "Knorr Quick",
+    "price": "$1.170,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Snack Sabor Jamon S/Tacc",
+    "title": "63 GR",
+    "price": "$975,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Copichoc Cereal",
+    "title": "Castell",
+    "price": "$1.800,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dips De Arroz",
+    "title": "100 GR",
+    "price": "$1.650,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina 0000",
+    "title": "Lucchetti",
+    "price": "$759,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Galletita Crackers",
+    "title": "500 GR",
+    "price": "$2.260,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Edulcorante En Polvo En Sobres Sucaryl 100Un",
+    "title": "Dec",
+    "price": "$3.645,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Palmitos Trozados",
+    "title": "350 GR",
+    "price": "$3.690,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Madalenas Con Ddl Flow",
+    "title": "Entrenut",
+    "price": "$2.200,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dulce De Leche Familiar",
+    "title": "370 GR",
+    "price": "$6.259,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Dulce De Leche La Serenisima Reducido En Lactosa 300Gr",
+    "title": "Casalta",
+    "price": "$2.765,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Copos Maiz",
+    "title": "500 CC",
+    "price": "$1.995,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereales Chocolate",
+    "title": "Kelloggs",
+    "price": "$1.285,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Alfajor De Arroz Dulce De Leche 6X20gr",
+    "title": "195 GR",
+    "price": "$1.490,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Sal Fina De Mesa Salero",
+    "title": "Primer Precio",
+    "price": "$3.000,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Premezcla Falafel Quinoa Y Arveja",
+    "title": "50 UN",
+    "price": "$1.530,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Mani Crocante Jamon",
+    "title": "Cumana",
+    "price": "$2.120,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Frutos Del Litoral Cbsé X 500 Grs.",
+    "title": "284 GR",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cracker M Zanah Y S Cream",
+    "title": "Cumana",
+    "price": "$1.170,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pudding Vai Rell Fru Bosq",
+    "title": "396 GR",
+    "price": "$1.900,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Pimienta Blanca Molida",
+    "title": "Tuy",
+    "price": "$1.050,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Nacho Original",
+    "title": "200 CC",
+    "price": "$1.170,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Gallet Mini Choco",
+    "title": "Kinder Natoons",
+    "price": "$1.150,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Yerba Mate Pomelo Cbsé X 500 Grs.",
+    "title": "40 GR",
+    "price": "$2.400,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Café Instantaneo Intenso En Saquitos La Morenita 20 Un.",
+    "title": "Mani king",
+    "price": "$4.220,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cereales Chocolate",
+    "title": "350 GR",
+    "price": "$2.089,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Harina 000",
+    "title": "Kos food",
+    "price": "$649,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "380 GR",
+    "price": "$890,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Exquisita",
+    "price": "$2.199,00",
+    "categoria": "alimentos"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "95 GR",
+    "price": "$2.590,00",
+    "categoria": "alimentos"
+  }
+]

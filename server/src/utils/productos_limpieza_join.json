@@ -1,0 +1,872 @@
+[
+  {
+    "description": "Detergente Bioactive Limón Botella",
+    "title": "Cif",
+    "price": "$3.279,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Tabletas Para Maquina Lavavajilla 3En1",
+    "title": "750 ML",
+    "price": "$9.999,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Lavavajilla Multiuso Limon",
+    "title": "Sun",
+    "price": "$1.290,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Bioactive Limón",
+    "title": "20 UN",
+    "price": "$1.250,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Bioactive Lima",
+    "title": "Ala",
+    "price": "$1.250,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Bioactive Limón",
+    "title": "750 ML",
+    "price": "$2.415,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Bioactive Lima",
+    "title": "Cif",
+    "price": "$2.415,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Conce Limon Dp",
+    "title": "300 ML",
+    "price": "$1.609,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Concen Oceano",
+    "title": "Cif",
+    "price": "$1.149,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Concentrado Oceano",
+    "title": "300 ML",
+    "price": "$1.190,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Bioactive Limon Doy Pack",
+    "title": "Cif",
+    "price": "$1.899,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Bioactive Lima Doy Pack",
+    "title": "500 ML",
+    "price": "$1.899,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Concentrado Pomelo",
+    "title": "Cif",
+    "price": "$1.190,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Abrillantador Sun Progress 500Cc",
+    "title": "500 ML",
+    "price": "$6.555,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Pvo Maq Lv Pod Des Bot",
+    "title": "Ala",
+    "price": "$6.699,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente En Gel Limón Verde Cif En Doypack 450Ml",
+    "title": "450 ML",
+    "price": "$5.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Fosforos",
+    "title": "Ala",
+    "price": "$699,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Sahumerios Fantasia",
+    "title": "300 ML",
+    "price": "$799,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Lavavaj Crem Flor Bcas",
+    "title": "Ala",
+    "price": "$1.290,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Platinum Plus Limon",
+    "title": "500 ML",
+    "price": "$1.495,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa Plana 50X70",
+    "title": "Cif",
+    "price": "$1.999,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa De Residuos Task En Rollo 50X70cm 20Un",
+    "title": "450 ML",
+    "price": "$1.899,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa Plana 45X60x10 Un",
+    "title": "Cif",
+    "price": "$1.799,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa De Residuos 60 X 90",
+    "title": "450 ML",
+    "price": "$1.399,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Ultra Limon",
+    "title": "Ala",
+    "price": "$1.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Velas Estearina Pura 6 Hs",
+    "title": "500 ML",
+    "price": "$1.390,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Velas Chicas 68 Gr",
+    "title": "Sun",
+    "price": "$939,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Lavavajilla Aloe Vera",
+    "title": "500 ML",
+    "price": "$1.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa Rollo Verde 45X60 Task 20Un",
+    "title": "Sun",
+    "price": "$2.799,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa Resid Reforz 45X60",
+    "title": "1 KG",
+    "price": "$1.930,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Lavavajilla Limón Héroe 750Cc",
+    "title": "Sun",
+    "price": "$1.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Mañana Fresca Incense St",
+    "title": "1 KG",
+    "price": "$1.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa Residuo 70X90 Rollo",
+    "title": "Buenos dias",
+    "price": "$2.999,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa Plana 60X90 Task 10Un",
+    "title": "220 UN",
+    "price": "$3.099,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Lavanda Incense Sticks",
+    "title": "Angeles Guardi",
+    "price": "$1.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Rosa Incense Sticks",
+    "title": "10 UN",
+    "price": "$1.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Lav Ultra Conc Aloe Vera",
+    "title": "Ala",
+    "price": "$599,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Abundancia Incense Stick",
+    "title": "750 ML",
+    "price": "$1.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa Residuo Reforzada 50X70",
+    "title": "Magistral",
+    "price": "$2.769,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Velas Estearina Pura 10 H",
+    "title": "215 ML",
+    "price": "$1.890,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Rosa Imperial Incense St",
+    "title": "Task",
+    "price": "$1.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa Residuo Cierra Fácil Limón 50X65",
+    "title": "10 UN",
+    "price": "$4.899,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa De Residuos 50X70 Asurin 30Un",
+    "title": "Task",
+    "price": "$4.899,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa Consorcio Cierra Fácil Limón 60X95",
+    "title": "20 UN",
+    "price": "$4.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa Consor Ver 60X100",
+    "title": "Task",
+    "price": "$4.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsa Para Organizar Mediana Ziploc 20 Unidades.",
+    "title": "10 UN",
+    "price": "$7.699,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente En Polvo Finish 1Kg",
+    "title": "Greenplast",
+    "price": "$7.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsas De Residuos Con Fragancia Limon 50 X 70",
+    "title": "10 UN",
+    "price": "$4.270,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bolsas Cocina 28X30 Rollo",
+    "title": "Heroe",
+    "price": "$1.929,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Bsa Resid Gigante 80X105",
+    "title": "300 CC",
+    "price": "$8.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Detergente Lavavajilla Finish 1Kg",
+    "title": "Velas Lujan",
+    "price": "$7.999,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Abrillantador Maq",
+    "title": "4 UN",
+    "price": "$10.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Máquina Lavavajilla",
+    "title": "Buenos dias",
+    "price": "$6.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "4 UN",
+    "price": "$890,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Heroe",
+    "price": "$2.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "750 CC",
+    "price": "$2.590,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Practirollo Cocina 200 P",
+    "title": "Campanita",
+    "price": "$2.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Hig Hs Plus 4X30",
+    "title": "1 UN",
+    "price": "$1.799,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Rollo Cocina Classic 3X50",
+    "title": "Campanita",
+    "price": "$1.699,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "120 MT",
+    "price": "$2.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Higienico Doble Hoja Ultra 4 X 30 Mts",
+    "title": "Campanita",
+    "price": "$1.999,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Rollo Cocina Mega 2X100",
+    "title": "3 UN",
+    "price": "$2.399,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Higiénico Simple Hoja 4X30mts",
+    "title": "Campanita",
+    "price": "$2.299,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Higienico Con Aloe Vera 4 X 80 Mts",
+    "title": "320 MT",
+    "price": "$5.599,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Higiénico Doble Hoja Petalos 4X30metros",
+    "title": "Campanita",
+    "price": "$3.699,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Pañuelos Pocket 6X10un",
+    "title": "120 MT",
+    "price": "$1.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Pañuelos Pocket Triple Hoja 6 X 10",
+    "title": "Campanita",
+    "price": "$1.999,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Serv Soft Blancas 30X30",
+    "title": "2 UN",
+    "price": "$1.790,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Higiénico Doble Hoja Soft Touch 4X30mts",
+    "title": "Higienol Export",
+    "price": "$4.090,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple 6X30mts",
+    "title": "120 MT",
+    "price": "$2.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Higiénico Doble Hoja Premium 4X30 Mts",
+    "title": "Higienol max",
+    "price": "$3.899,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Servilletas Clásicas Hoja Simple 30X30",
+    "title": "320 MT",
+    "price": "$1.490,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Rollo Papel Alumin 30Cm",
+    "title": "Higienol",
+    "price": "$1.735,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Rollo Papel Film 30 Cm",
+    "title": "120 MT",
+    "price": "$1.399,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Higiénico Doble Hoja Duo 4X50mts",
+    "title": "Campanita",
+    "price": "$7.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Rollo Papel Manteca",
+    "title": "60 UN",
+    "price": "$2.390,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Servilletas De Diseño Gold 35Un",
+    "title": "Elite",
+    "price": "$1.290,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Film Adherente 28 Cm",
+    "title": "60 UN",
+    "price": "$2.799,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "Campanita",
+    "price": "$890,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "70 UN",
+    "price": "$2.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "Elite",
+    "price": "$2.590,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Cif Crema Bioactive Original Botella",
+    "title": "Cif",
+    "price": "$3.449,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Antigrasa Bioactive",
+    "title": "750 GR",
+    "price": "$990,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Crema Multiuso Rosas Y Jazmines",
+    "title": "Cif",
+    "price": "$3.449,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Desinfectante Blanco",
+    "title": "450 ML",
+    "price": "$2.099,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Marina",
+    "title": "Cif",
+    "price": "$1.490,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Aire De Primavera",
+    "title": "750 G",
+    "price": "$1.590,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Pino",
+    "title": "Procenex",
+    "price": "$1.590,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Tropical",
+    "title": "900 ML",
+    "price": "$1.590,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limp Antigrasa Expert Dp",
+    "title": "Procenex",
+    "price": "$1.379,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Gel Desinfectan Orig Bot",
+    "title": "900 ML",
+    "price": "$1.495,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Liq Desinf Pisos Orig Dp",
+    "title": "Procenex",
+    "price": "$990,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Baño Expert Repuesto",
+    "title": "900 CC",
+    "price": "$1.379,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpia Pisos Blanco Procenez 1800Ml",
+    "title": "Procenex",
+    "price": "$3.799,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Vidrios Expertos Repuesto",
+    "title": "900 ML",
+    "price": "$1.379,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Líquido Limpiador Primavera",
+    "title": "Procenex",
+    "price": "$899,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Gel Desinfectan Orig Bot",
+    "title": "900 ML",
+    "price": "$2.529,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador En Gel Blanco Y Brillante",
+    "title": "Cif",
+    "price": "$2.699,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Frescura De Lavanda Poett",
+    "title": "450 ML",
+    "price": "$1.399,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Líquido Jardín",
+    "title": "Cif",
+    "price": "$2.599,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Líquido Power Plus Inodoros",
+    "title": "250 GR",
+    "price": "$2.699,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiad Desinfectante Dp",
+    "title": "Cif",
+    "price": "$1.265,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Solo Para Ti",
+    "title": "450 ML",
+    "price": "$1.399,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Alegra Tu Dia",
+    "title": "Cif",
+    "price": "$1.399,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Desinfectante Expert Multisuperficies Doy Pack",
+    "title": "450 ML",
+    "price": "$1.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Flores Primaverales",
+    "title": "Procenex",
+    "price": "$1.399,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limp Concentrado Marina",
+    "title": "1800 ML",
+    "price": "$499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Desinfectante Suave Bebe",
+    "title": "Cif",
+    "price": "$1.399,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Removedor De Sarro Repuesto",
+    "title": "450 ML",
+    "price": "$1.979,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiad Desinfectante Gtl",
+    "title": "Heroe",
+    "price": "$2.299,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpia Vidrios Multiuso Lavanda Doy Pack",
+    "title": "900 ML",
+    "price": "$1.399,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Desinfectante Frescura De Lavanda Poett 1800Ml",
+    "title": "Cif",
+    "price": "$2.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limp Vidrios Expert Dp",
+    "title": "500 GR",
+    "price": "$1.955,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Liq Desinf Pisos Orig Bot",
+    "title": "Harpic gel",
+    "price": "$2.069,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Desinfectante Marina",
+    "title": "500 CC",
+    "price": "$1.699,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Aceite Pino",
+    "title": "Poett",
+    "price": "$1.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador De Vidrios Procenex Doypack 820Ml",
+    "title": "900 ML",
+    "price": "$1.999,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limp Concentrado Lavanda",
+    "title": "Procenex",
+    "price": "$499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Desinfectante Fragancia Citrus",
+    "title": "1800 ML",
+    "price": "$1.399,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Desinfectante Multisuperficies Doy Pack",
+    "title": "Harpic Power pl",
+    "price": "$1.299,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limp Vidrios Expert Gtl",
+    "title": "500 ML",
+    "price": "$2.529,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Líquido Desinfectante Espíritu Play",
+    "title": "Cif",
+    "price": "$2.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Desinfectante Diluible Original",
+    "title": "380 ML",
+    "price": "$2.190,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Desinfectante Solo Para Ti Poett 1800Ml",
+    "title": "Poett",
+    "price": "$2.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Desinfectante Líquido Bebé Doypack",
+    "title": "900 ML",
+    "price": "$1.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Líquido Música Primavera",
+    "title": "Poett",
+    "price": "$1.399,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Cremoso- Lysoform 450Ml",
+    "title": "900 ML",
+    "price": "$3.999,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Desinfectante Líquido Lysoform Original Doypack 420 Cc",
+    "title": "Ayudin",
+    "price": "$1.499,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Toallitas Flowpack Fresco",
+    "title": "450 ML",
+    "price": "$2.799,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limp Antigrasa Expert Gtl",
+    "title": "Poett",
+    "price": "$2.529,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liq Marina",
+    "title": "900 ML",
+    "price": "$6.790,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Destapacañerias",
+    "title": "Multimax",
+    "price": "$4.299,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador",
+    "title": "35 ML",
+    "price": "$10.449,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Acondicionador Limpiador Para Piso Lavanda Lysoform 1800 Ml.",
+    "title": "Poett",
+    "price": "$3.399,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Gel Citrus Destde Sarro",
+    "title": "900 ML",
+    "price": "$3.899,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Liquido Lavanda",
+    "title": "Harpic",
+    "price": "$1.999,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limp Liq Flores De Jardin",
+    "title": "420 ML",
+    "price": "$6.790,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Desinfectante Diluible Lavanda",
+    "title": "Cif",
+    "price": "$1.890,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Limpiador Desinfectante Multisuperficie",
+    "title": "400 ML",
+    "price": "$3.999,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Lim Liq P/Piso Ros-Jaz Dp",
+    "title": "Mr. Musculo",
+    "price": "$1.299,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Lim Liq Multi Ros-Jaz Dp",
+    "title": "450 CC",
+    "price": "$1.299,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Lim Liq P/Piso Lavanda Dp",
+    "title": "Poett",
+    "price": "$1.299,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "1800 ML",
+    "price": "$890,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Cif",
+    "price": "$2.199,00",
+    "categoria": "limpieza"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "900 ML",
+    "price": "$2.590,00",
+    "categoria": "limpieza"
+  }
+]

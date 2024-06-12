@@ -4,21 +4,13 @@ const fs = require('fs');
 const {pg} = require('pg')
 const path = require('path');
 
-const sequelize = new Sequelize(`postgresql://postgres:.37273194@localhost:5432/tasks`,{
+const sequelize = new Sequelize(`postgresql://postgres:.37273194@localhost:5432/Products`,{
     logging: false, // set to console.log to see the raw SQL queries
   native: false, // lets Sequelize know we can use pg-native for ~30% more speed
   dialectModule: pg,
 })
 
-async function verify () {
-  try {
-    await sequelize.authenticate();
-    console.log('Connection has been established successfully.');
-  } catch (error) {
-    console.error('Unable to connect to the database:', error);
-  } 
-}
-verify();
+
 
 const basename = path.basename(__filename);
 
@@ -40,7 +32,7 @@ let capsEntries = entries.map((entry)=> [entry[0][0].toUpperCase() + entry[0].sl
 
 sequelize.models = Object.fromEntries(capsEntries)
 
-const { Tasks , Users} = sequelize.models
+///const { Tasks , Users} = sequelize.models
 
 //relaciones
 

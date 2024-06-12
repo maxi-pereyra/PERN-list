@@ -1,0 +1,2540 @@
+[
+  {
+    "description": "Jabón Vainilla Dove",
+    "title": "Dove",
+    "price": "$1.569,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Crema S Nutritiva",
+    "title": "90 GR",
+    "price": "$2.875,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Crema Corporal Avena Y Karite",
+    "title": "Pond's",
+    "price": "$4.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Roll-On Nutriteve",
+    "title": "100 GR",
+    "price": "$1.725,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Cuida Y Protege",
+    "title": "St ives",
+    "price": "$1.569,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Líquido Antibacterial Original",
+    "title": "350 ML",
+    "price": "$1.609,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón De Glicerina Neutral Hipoalergénico Rexona 270Gr",
+    "title": "Rexona",
+    "price": "$2.759,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Rollon Original Dove 50Ml",
+    "title": "50 ML",
+    "price": "$1.839,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Barra Original",
+    "title": "Dove",
+    "price": "$3.795,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Crema Desodorante Odorono",
+    "title": "90 GR",
+    "price": "$1.609,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Roll-On Invisible",
+    "title": "Rexona",
+    "price": "$1.725,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Antibact Fresh 3X90",
+    "title": "220 ML",
+    "price": "$2.069,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Musk Axe",
+    "title": "Rexona",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Invisible Dry Roll On",
+    "title": "270 GR",
+    "price": "$2.185,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Glicerina Citrus",
+    "title": "Dove",
+    "price": "$2.759,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Active Emotion",
+    "title": "50 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Triple Accion M3p",
+    "title": "Dove",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Bamboo Y Aloe Vera",
+    "title": "50 GR",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Dental Extra Clean",
+    "title": "Odorono Rexona",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Invisible",
+    "title": "60 GR",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Dental Twister Of",
+    "title": "Rexona",
+    "price": "$3.699,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Antitranspirante Aerosol V8",
+    "title": "50 ML",
+    "price": "$3.449,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cep D Slimsoft Adv",
+    "title": "Rexona",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Men Antibacterial",
+    "title": "270 GR",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Fútbol Fanatics",
+    "title": "Axe",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante V8",
+    "title": "150 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Dental 2 Suave",
+    "title": "Dove",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Xtracool",
+    "title": "50 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón De Glicerina Neutral Hipoalergénico Rexona 80Gr",
+    "title": "Rexona",
+    "price": "$1.149,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Hombre",
+    "title": "270 GR",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Invisible",
+    "title": "Rexona Woman",
+    "price": "$1.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Antitranspirante Aerosol Sensitive",
+    "title": "150 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Bamboo 1P",
+    "title": "Colgate",
+    "price": "$3.599,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Antitranspirante Barra",
+    "title": "3 UN",
+    "price": "$3.105,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Bamboo 2P",
+    "title": "Rexona Woman",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Dove Ritual De Fortalecimiento Palta",
+    "title": "150 ML",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Marine Axe",
+    "title": "Colgate",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Blanco Original",
+    "title": "3 UN",
+    "price": "$1.569,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Glicerina Dermatológicamente Testeado Frutos Rojos",
+    "title": "Rexona Woman",
+    "price": "$1.149,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Leche De Coco Dove 90Gr",
+    "title": "150 ML",
+    "price": "$1.569,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Rollon Active Emotion",
+    "title": "Colgate",
+    "price": "$1.725,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Bamboo Fresh Rexona 125Gr",
+    "title": "3 UN",
+    "price": "$860,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Sensible Fresh Rexona 125Gr",
+    "title": "Rexona men",
+    "price": "$860,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Orchid Fresh",
+    "title": "250 ML",
+    "price": "$860,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Bamboo Fresh Rexona 3X125gr",
+    "title": "Colgate",
+    "price": "$1.899,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Sensible Fresh Rexona 3X125gr",
+    "title": "2 UN",
+    "price": "$1.899,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Cotton Fresh Rexona 3X125gr",
+    "title": "Rexona men",
+    "price": "$1.899,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Black Axe",
+    "title": "150 ML",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Ap Black",
+    "title": "Rexona men",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Cotton Fresh Rexona 125Gr",
+    "title": "150 ML",
+    "price": "$860,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Colorvive Reno",
+    "title": "Rexona men",
+    "price": "$3.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Cotton Dry",
+    "title": "150 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Crema Sensitive Pro Alivio Inmediato",
+    "title": "Colgate 360",
+    "price": "$3.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Rosas Francesas",
+    "title": "2 UN",
+    "price": "$599,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Ritual Reparación Coco Doy Pack",
+    "title": "Rexona men",
+    "price": "$2.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Gel Dental Smiles Barbie",
+    "title": "150 ML",
+    "price": "$1.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Corporal Spray Apollo Axe",
+    "title": "Rexona",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Flor De Vainilla",
+    "title": "90 GR",
+    "price": "$2.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Ac Ritual Reparac Coco Dp",
+    "title": "Rexona men",
+    "price": "$2.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Antitranspirante Apollo",
+    "title": "150 ML",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Smiles Batman 2P",
+    "title": "Rexona men",
+    "price": "$1.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Rosas Francesas",
+    "title": "150 ML",
+    "price": "$2.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Stick Ap Nutritive",
+    "title": "Rexona men",
+    "price": "$3.105,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Fútbol Fanáticas",
+    "title": "150 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "W Deo Aer Ap Antib P",
+    "title": "Colgate",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "1 UN",
+    "price": "$890,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Rexona v8",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "50 GR",
+    "price": "$2.590,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Vainilla Dove",
+    "title": "Dove",
+    "price": "$1.569,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Crema S Nutritiva",
+    "title": "90 GR",
+    "price": "$2.875,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Crema Corporal Avena Y Karite",
+    "title": "Pond's",
+    "price": "$4.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Roll-On Nutriteve",
+    "title": "100 GR",
+    "price": "$1.725,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Cuida Y Protege",
+    "title": "St ives",
+    "price": "$1.569,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Líquido Antibacterial Original",
+    "title": "350 ML",
+    "price": "$1.609,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón De Glicerina Neutral Hipoalergénico Rexona 270Gr",
+    "title": "Rexona",
+    "price": "$2.759,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Rollon Original Dove 50Ml",
+    "title": "50 ML",
+    "price": "$1.839,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Barra Original",
+    "title": "Dove",
+    "price": "$3.795,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Crema Desodorante Odorono",
+    "title": "90 GR",
+    "price": "$1.609,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Roll-On Invisible",
+    "title": "Rexona",
+    "price": "$1.725,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Antibact Fresh 3X90",
+    "title": "220 ML",
+    "price": "$2.069,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Musk Axe",
+    "title": "Rexona",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Invisible Dry Roll On",
+    "title": "270 GR",
+    "price": "$2.185,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Glicerina Citrus",
+    "title": "Dove",
+    "price": "$2.759,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Active Emotion",
+    "title": "50 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Triple Accion M3p",
+    "title": "Dove",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Bamboo Y Aloe Vera",
+    "title": "50 GR",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Dental Extra Clean",
+    "title": "Odorono Rexona",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Invisible",
+    "title": "60 GR",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Dental Twister Of",
+    "title": "Rexona",
+    "price": "$3.699,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Antitranspirante Aerosol V8",
+    "title": "50 ML",
+    "price": "$3.449,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cep D Slimsoft Adv",
+    "title": "Rexona",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Men Antibacterial",
+    "title": "270 GR",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Fútbol Fanatics",
+    "title": "Axe",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante V8",
+    "title": "150 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Dental 2 Suave",
+    "title": "Dove",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Xtracool",
+    "title": "50 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón De Glicerina Neutral Hipoalergénico Rexona 80Gr",
+    "title": "Rexona",
+    "price": "$1.149,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Hombre",
+    "title": "270 GR",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Invisible",
+    "title": "Rexona Woman",
+    "price": "$1.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Antitranspirante Aerosol Sensitive",
+    "title": "150 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Bamboo 1P",
+    "title": "Colgate",
+    "price": "$3.599,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Antitranspirante Barra",
+    "title": "3 UN",
+    "price": "$3.105,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Bamboo 2P",
+    "title": "Rexona Woman",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Dove Ritual De Fortalecimiento Palta",
+    "title": "150 ML",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Marine Axe",
+    "title": "Colgate",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Blanco Original",
+    "title": "3 UN",
+    "price": "$1.569,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Glicerina Dermatológicamente Testeado Frutos Rojos",
+    "title": "Rexona Woman",
+    "price": "$1.149,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Leche De Coco Dove 90Gr",
+    "title": "150 ML",
+    "price": "$1.569,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Rollon Active Emotion",
+    "title": "Colgate",
+    "price": "$1.725,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Bamboo Fresh Rexona 125Gr",
+    "title": "3 UN",
+    "price": "$860,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Sensible Fresh Rexona 125Gr",
+    "title": "Rexona men",
+    "price": "$860,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Orchid Fresh",
+    "title": "250 ML",
+    "price": "$860,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Bamboo Fresh Rexona 3X125gr",
+    "title": "Colgate",
+    "price": "$1.899,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Sensible Fresh Rexona 3X125gr",
+    "title": "2 UN",
+    "price": "$1.899,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Cotton Fresh Rexona 3X125gr",
+    "title": "Rexona men",
+    "price": "$1.899,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Black Axe",
+    "title": "150 ML",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Ap Black",
+    "title": "Rexona men",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Cotton Fresh Rexona 125Gr",
+    "title": "150 ML",
+    "price": "$860,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Colorvive Reno",
+    "title": "Rexona men",
+    "price": "$3.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Cotton Dry",
+    "title": "150 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Crema Sensitive Pro Alivio Inmediato",
+    "title": "Colgate 360",
+    "price": "$3.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Rosas Francesas",
+    "title": "2 UN",
+    "price": "$599,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Ritual Reparación Coco Doy Pack",
+    "title": "Rexona men",
+    "price": "$2.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Gel Dental Smiles Barbie",
+    "title": "150 ML",
+    "price": "$1.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Corporal Spray Apollo Axe",
+    "title": "Rexona",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Flor De Vainilla",
+    "title": "90 GR",
+    "price": "$2.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Ac Ritual Reparac Coco Dp",
+    "title": "Rexona men",
+    "price": "$2.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Antitranspirante Apollo",
+    "title": "150 ML",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Smiles Batman 2P",
+    "title": "Rexona men",
+    "price": "$1.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Rosas Francesas",
+    "title": "150 ML",
+    "price": "$2.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Stick Ap Nutritive",
+    "title": "Rexona men",
+    "price": "$3.105,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Fútbol Fanáticas",
+    "title": "150 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "W Deo Aer Ap Antib P",
+    "title": "Colgate",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "1 UN",
+    "price": "$890,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Rexona v8",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "50 GR",
+    "price": "$2.590,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Vainilla Dove",
+    "title": "Dove",
+    "price": "$1.569,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Crema S Nutritiva",
+    "title": "90 GR",
+    "price": "$2.875,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Crema Corporal Avena Y Karite",
+    "title": "Pond's",
+    "price": "$4.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Roll-On Nutriteve",
+    "title": "100 GR",
+    "price": "$1.725,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Cuida Y Protege",
+    "title": "St ives",
+    "price": "$1.569,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Líquido Antibacterial Original",
+    "title": "350 ML",
+    "price": "$1.609,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón De Glicerina Neutral Hipoalergénico Rexona 270Gr",
+    "title": "Rexona",
+    "price": "$2.759,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Rollon Original Dove 50Ml",
+    "title": "50 ML",
+    "price": "$1.839,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Barra Original",
+    "title": "Dove",
+    "price": "$3.795,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Crema Desodorante Odorono",
+    "title": "90 GR",
+    "price": "$1.609,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Roll-On Invisible",
+    "title": "Rexona",
+    "price": "$1.725,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Antibact Fresh 3X90",
+    "title": "220 ML",
+    "price": "$2.069,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Musk Axe",
+    "title": "Rexona",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Invisible Dry Roll On",
+    "title": "270 GR",
+    "price": "$2.185,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Glicerina Citrus",
+    "title": "Dove",
+    "price": "$2.759,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Active Emotion",
+    "title": "50 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Triple Accion M3p",
+    "title": "Dove",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Bamboo Y Aloe Vera",
+    "title": "50 GR",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Dental Extra Clean",
+    "title": "Odorono Rexona",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Invisible",
+    "title": "60 GR",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Dental Twister Of",
+    "title": "Rexona",
+    "price": "$3.699,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Antitranspirante Aerosol V8",
+    "title": "50 ML",
+    "price": "$3.449,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cep D Slimsoft Adv",
+    "title": "Rexona",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Men Antibacterial",
+    "title": "270 GR",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Fútbol Fanatics",
+    "title": "Axe",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante V8",
+    "title": "150 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Dental 2 Suave",
+    "title": "Dove",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Xtracool",
+    "title": "50 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón De Glicerina Neutral Hipoalergénico Rexona 80Gr",
+    "title": "Rexona",
+    "price": "$1.149,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Hombre",
+    "title": "270 GR",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Invisible",
+    "title": "Rexona Woman",
+    "price": "$1.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Antitranspirante Aerosol Sensitive",
+    "title": "150 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Bamboo 1P",
+    "title": "Colgate",
+    "price": "$3.599,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Antitranspirante Barra",
+    "title": "3 UN",
+    "price": "$3.105,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Bamboo 2P",
+    "title": "Rexona Woman",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Dove Ritual De Fortalecimiento Palta",
+    "title": "150 ML",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Marine Axe",
+    "title": "Colgate",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Blanco Original",
+    "title": "3 UN",
+    "price": "$1.569,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Glicerina Dermatológicamente Testeado Frutos Rojos",
+    "title": "Rexona Woman",
+    "price": "$1.149,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Leche De Coco Dove 90Gr",
+    "title": "150 ML",
+    "price": "$1.569,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Rollon Active Emotion",
+    "title": "Colgate",
+    "price": "$1.725,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Bamboo Fresh Rexona 125Gr",
+    "title": "3 UN",
+    "price": "$860,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Sensible Fresh Rexona 125Gr",
+    "title": "Rexona men",
+    "price": "$860,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Orchid Fresh",
+    "title": "250 ML",
+    "price": "$860,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Bamboo Fresh Rexona 3X125gr",
+    "title": "Colgate",
+    "price": "$1.899,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Sensible Fresh Rexona 3X125gr",
+    "title": "2 UN",
+    "price": "$1.899,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Cotton Fresh Rexona 3X125gr",
+    "title": "Rexona men",
+    "price": "$1.899,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Black Axe",
+    "title": "150 ML",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Ap Black",
+    "title": "Rexona men",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Cotton Fresh Rexona 125Gr",
+    "title": "150 ML",
+    "price": "$860,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Colorvive Reno",
+    "title": "Rexona men",
+    "price": "$3.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Cotton Dry",
+    "title": "150 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Crema Sensitive Pro Alivio Inmediato",
+    "title": "Colgate 360",
+    "price": "$3.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Rosas Francesas",
+    "title": "2 UN",
+    "price": "$599,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Ritual Reparación Coco Doy Pack",
+    "title": "Rexona men",
+    "price": "$2.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Gel Dental Smiles Barbie",
+    "title": "150 ML",
+    "price": "$1.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Corporal Spray Apollo Axe",
+    "title": "Rexona",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Flor De Vainilla",
+    "title": "90 GR",
+    "price": "$2.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Ac Ritual Reparac Coco Dp",
+    "title": "Rexona men",
+    "price": "$2.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Antitranspirante Apollo",
+    "title": "150 ML",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cepillo Smiles Batman 2P",
+    "title": "Rexona men",
+    "price": "$1.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon Rosas Francesas",
+    "title": "150 ML",
+    "price": "$2.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Stick Ap Nutritive",
+    "title": "Rexona men",
+    "price": "$3.105,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Fútbol Fanáticas",
+    "title": "150 ML",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "W Deo Aer Ap Antib P",
+    "title": "Colgate",
+    "price": "$1.990,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "1 UN",
+    "price": "$890,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "Rexona v8",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "50 GR",
+    "price": "$2.590,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Jengibre Y Ricino",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Carbon Y Peonias",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Colageno Y Vitamina C",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Extra Fresh",
+    "title": "340 ML",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Liso Efecto Botox",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Ceramidas",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Crema Balance",
+    "title": "Dove men",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Toallitas Húmedas Clásicas Ideal 50Un",
+    "title": "150 ML",
+    "price": "$1.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Liso Perfecto",
+    "title": "Tresemme",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Rizos Definidos",
+    "title": "500 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Algodon Premium Pre-Cort",
+    "title": "Sedal",
+    "price": "$1.090,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Hialurónico Y Vitamina A",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Restauración Instantánea",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Bomba Argán",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Algodon Familiar",
+    "title": "Ideal",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Bomba Jazmin",
+    "title": "50 UN",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Liso Perfecto",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Protec Poc Duo S/Deo",
+    "title": "340 ML",
+    "price": "$799,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Rizos Definidos",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Colageno Y Vitamina C",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Toalla Femenina Adap Con Alas Especial",
+    "title": "Doncella",
+    "price": "$1.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Pedico Original Aerosol",
+    "title": "100 GR",
+    "price": "$2.529,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Keratina Antifrizz",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Talco Pedico Original",
+    "title": "340 ML",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Talco Pedido Doypack",
+    "title": "Sedal",
+    "price": "$1.490,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acond Bomba Jazmin",
+    "title": "340 ML",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cr Dental Carbon Activado",
+    "title": "Sedal",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Bomba Argan",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Restauración Instantanea",
+    "title": "Estrella",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Esponja Baño Body Masaje",
+    "title": "140 GR",
+    "price": "$999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Protectores Diarios Carefree 20Un",
+    "title": "Suave",
+    "price": "$2.399,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Algodon Hidrofilo C/Cierr",
+    "title": "930 ML",
+    "price": "$1.090,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon T Flores Piel",
+    "title": "Sedal",
+    "price": "$680,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Epic Fresh",
+    "title": "340 ML",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Protectores Femeninos Para Tanga Carefree 20Un",
+    "title": "Doncella",
+    "price": "$2.699,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Pepino 72Hs",
+    "title": "20 UN",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Cauterización Reparadora",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Tresemme Keratina Antifrizz 500 Ml",
+    "title": "340 ML",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Brillo Lamelar",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Original 72Hs",
+    "title": "340 ML",
+    "price": "$4.485,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Brillo",
+    "title": "Siempre Libre",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Alcohol Puro",
+    "title": "8 UN",
+    "price": "$1.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Aer Classic Woman 96H",
+    "title": "Rexon Efficient",
+    "price": "$2.799,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Sh Prebioticos+Biotina",
+    "title": "153 ML",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Hidratación Intensa",
+    "title": "Tresemme",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Largo Fortalecido",
+    "title": "500 ML",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Alcohol Etilico 96º",
+    "title": "Rexon Efficient",
+    "price": "$3.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Protectores Diarios Class Ph Balanceado Kotex 20 Un.",
+    "title": "200 GR",
+    "price": "$2.759,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Largo Fort",
+    "title": "Algabo",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Toallitas Humedas Oleo Triple Protección",
+    "title": "200 GR",
+    "price": "$3.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Esponja Baño Infantil",
+    "title": "Suave",
+    "price": "$599,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Ap Aer Xtracool",
+    "title": "930 ML",
+    "price": "$3.449,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Bomba Deliciosa",
+    "title": "Colgate tot 12",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Enjuague Bucal Ment Suave",
+    "title": "90 GR",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jab Toc Antib Original",
+    "title": "Sedal",
+    "price": "$1.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Armonia Para Vos 3X125",
+    "title": "340 ML",
+    "price": "$1.915,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Cauterización Reparadora",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Algodon",
+    "title": "340 ML",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cologne Deodorant Musk",
+    "title": "Primer Precio",
+    "price": "$3.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Hidratacion",
+    "title": "1 UN",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Ac Prebioticos+Biotina",
+    "title": "Carefree",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Tampones Esterilizados Medianos",
+    "title": "20 UN",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Toalla Femen Tanga C/Alas",
+    "title": "Doncella",
+    "price": "$1.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Preservativos Super Finos",
+    "title": "100 GR",
+    "price": "$6.455,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Tampones Super",
+    "title": "St Tropez",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cartucho Maq Afe Sensitve",
+    "title": "125 GR",
+    "price": "$6.279,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Alcohol Etílico 70 Grados Purocol 1000Ml",
+    "title": "Axe",
+    "price": "$3.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acond Bomba Ceramidas",
+    "title": "152 ML",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Ondas Boho",
+    "title": "Carefree",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón De Tocador Antibacterial Cremoso Espadol Dettol 80 Gr.",
+    "title": "20 UN",
+    "price": "$1.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "Dove",
+    "price": "$890,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "150 ML",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "Tresemme",
+    "price": "$2.590,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Jengibre Y Ricino",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Carbon Y Peonias",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Colageno Y Vitamina C",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Extra Fresh",
+    "title": "340 ML",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Liso Efecto Botox",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Ceramidas",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Crema Balance",
+    "title": "Dove men",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Toallitas Húmedas Clásicas Ideal 50Un",
+    "title": "150 ML",
+    "price": "$1.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Liso Perfecto",
+    "title": "Tresemme",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Rizos Definidos",
+    "title": "500 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Algodon Premium Pre-Cort",
+    "title": "Sedal",
+    "price": "$1.090,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Hialurónico Y Vitamina A",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Restauración Instantánea",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Bomba Argán",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Algodon Familiar",
+    "title": "Ideal",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Bomba Jazmin",
+    "title": "50 UN",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Liso Perfecto",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Protec Poc Duo S/Deo",
+    "title": "340 ML",
+    "price": "$799,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Rizos Definidos",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Colageno Y Vitamina C",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Toalla Femenina Adap Con Alas Especial",
+    "title": "Doncella",
+    "price": "$1.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Pedico Original Aerosol",
+    "title": "100 GR",
+    "price": "$2.529,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Keratina Antifrizz",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Talco Pedico Original",
+    "title": "340 ML",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Talco Pedido Doypack",
+    "title": "Sedal",
+    "price": "$1.490,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acond Bomba Jazmin",
+    "title": "340 ML",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cr Dental Carbon Activado",
+    "title": "Sedal",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Bomba Argan",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Restauración Instantanea",
+    "title": "Estrella",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Esponja Baño Body Masaje",
+    "title": "140 GR",
+    "price": "$999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Protectores Diarios Carefree 20Un",
+    "title": "Suave",
+    "price": "$2.399,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Algodon Hidrofilo C/Cierr",
+    "title": "930 ML",
+    "price": "$1.090,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon T Flores Piel",
+    "title": "Sedal",
+    "price": "$680,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Epic Fresh",
+    "title": "340 ML",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Protectores Femeninos Para Tanga Carefree 20Un",
+    "title": "Doncella",
+    "price": "$2.699,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Pepino 72Hs",
+    "title": "20 UN",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Cauterización Reparadora",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Tresemme Keratina Antifrizz 500 Ml",
+    "title": "340 ML",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Brillo Lamelar",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Original 72Hs",
+    "title": "340 ML",
+    "price": "$4.485,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Brillo",
+    "title": "Siempre Libre",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Alcohol Puro",
+    "title": "8 UN",
+    "price": "$1.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Aer Classic Woman 96H",
+    "title": "Rexon Efficient",
+    "price": "$2.799,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Sh Prebioticos+Biotina",
+    "title": "153 ML",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Hidratación Intensa",
+    "title": "Tresemme",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Largo Fortalecido",
+    "title": "500 ML",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Alcohol Etilico 96º",
+    "title": "Rexon Efficient",
+    "price": "$3.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Protectores Diarios Class Ph Balanceado Kotex 20 Un.",
+    "title": "200 GR",
+    "price": "$2.759,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Largo Fort",
+    "title": "Algabo",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Toallitas Humedas Oleo Triple Protección",
+    "title": "200 GR",
+    "price": "$3.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Esponja Baño Infantil",
+    "title": "Suave",
+    "price": "$599,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Ap Aer Xtracool",
+    "title": "930 ML",
+    "price": "$3.449,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Bomba Deliciosa",
+    "title": "Colgate tot 12",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Enjuague Bucal Ment Suave",
+    "title": "90 GR",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jab Toc Antib Original",
+    "title": "Sedal",
+    "price": "$1.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Armonia Para Vos 3X125",
+    "title": "340 ML",
+    "price": "$1.915,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Cauterización Reparadora",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Algodon",
+    "title": "340 ML",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cologne Deodorant Musk",
+    "title": "Primer Precio",
+    "price": "$3.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Hidratacion",
+    "title": "1 UN",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Ac Prebioticos+Biotina",
+    "title": "Carefree",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Tampones Esterilizados Medianos",
+    "title": "20 UN",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Toalla Femen Tanga C/Alas",
+    "title": "Doncella",
+    "price": "$1.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Preservativos Super Finos",
+    "title": "100 GR",
+    "price": "$6.455,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Tampones Super",
+    "title": "St Tropez",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cartucho Maq Afe Sensitve",
+    "title": "125 GR",
+    "price": "$6.279,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Alcohol Etílico 70 Grados Purocol 1000Ml",
+    "title": "Axe",
+    "price": "$3.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acond Bomba Ceramidas",
+    "title": "152 ML",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Ondas Boho",
+    "title": "Carefree",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón De Tocador Antibacterial Cremoso Espadol Dettol 80 Gr.",
+    "title": "20 UN",
+    "price": "$1.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "Dove",
+    "price": "$890,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "150 ML",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "Tresemme",
+    "price": "$2.590,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Jengibre Y Ricino",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Carbon Y Peonias",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Colageno Y Vitamina C",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Extra Fresh",
+    "title": "340 ML",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Liso Efecto Botox",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Ceramidas",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Crema Balance",
+    "title": "Dove men",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Toallitas Húmedas Clásicas Ideal 50Un",
+    "title": "150 ML",
+    "price": "$1.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Liso Perfecto",
+    "title": "Tresemme",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Rizos Definidos",
+    "title": "500 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Algodon Premium Pre-Cort",
+    "title": "Sedal",
+    "price": "$1.090,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Hialurónico Y Vitamina A",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Restauración Instantánea",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Bomba Argán",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Algodon Familiar",
+    "title": "Ideal",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Bomba Jazmin",
+    "title": "50 UN",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Liso Perfecto",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Protec Poc Duo S/Deo",
+    "title": "340 ML",
+    "price": "$799,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Rizos Definidos",
+    "title": "Sedal",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Colageno Y Vitamina C",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Toalla Femenina Adap Con Alas Especial",
+    "title": "Doncella",
+    "price": "$1.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Pedico Original Aerosol",
+    "title": "100 GR",
+    "price": "$2.529,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Keratina Antifrizz",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Talco Pedico Original",
+    "title": "340 ML",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Talco Pedido Doypack",
+    "title": "Sedal",
+    "price": "$1.490,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acond Bomba Jazmin",
+    "title": "340 ML",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cr Dental Carbon Activado",
+    "title": "Sedal",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Bomba Argan",
+    "title": "340 ML",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Restauración Instantanea",
+    "title": "Estrella",
+    "price": "$2.190,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Esponja Baño Body Masaje",
+    "title": "140 GR",
+    "price": "$999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Protectores Diarios Carefree 20Un",
+    "title": "Suave",
+    "price": "$2.399,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Algodon Hidrofilo C/Cierr",
+    "title": "930 ML",
+    "price": "$1.090,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabon T Flores Piel",
+    "title": "Sedal",
+    "price": "$680,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Epic Fresh",
+    "title": "340 ML",
+    "price": "$1.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Protectores Femeninos Para Tanga Carefree 20Un",
+    "title": "Doncella",
+    "price": "$2.699,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Pepino 72Hs",
+    "title": "20 UN",
+    "price": "$2.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Cauterización Reparadora",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Tresemme Keratina Antifrizz 500 Ml",
+    "title": "340 ML",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Brillo Lamelar",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Desodorante Aerosol Antitranspirante Original 72Hs",
+    "title": "340 ML",
+    "price": "$4.485,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Brillo",
+    "title": "Siempre Libre",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Alcohol Puro",
+    "title": "8 UN",
+    "price": "$1.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Aer Classic Woman 96H",
+    "title": "Rexon Efficient",
+    "price": "$2.799,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Sh Prebioticos+Biotina",
+    "title": "153 ML",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Hidratación Intensa",
+    "title": "Tresemme",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Largo Fortalecido",
+    "title": "500 ML",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Alcohol Etilico 96º",
+    "title": "Rexon Efficient",
+    "price": "$3.499,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Protectores Diarios Class Ph Balanceado Kotex 20 Un.",
+    "title": "200 GR",
+    "price": "$2.759,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acondicionador Largo Fort",
+    "title": "Algabo",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Toallitas Humedas Oleo Triple Protección",
+    "title": "200 GR",
+    "price": "$3.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Esponja Baño Infantil",
+    "title": "Suave",
+    "price": "$599,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Deo Ap Aer Xtracool",
+    "title": "930 ML",
+    "price": "$3.449,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Bomba Deliciosa",
+    "title": "Colgate tot 12",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Enjuague Bucal Ment Suave",
+    "title": "90 GR",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jab Toc Antib Original",
+    "title": "Sedal",
+    "price": "$1.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón Armonia Para Vos 3X125",
+    "title": "340 ML",
+    "price": "$1.915,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Cauterización Reparadora",
+    "title": "Sedal",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Algodon",
+    "title": "340 ML",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cologne Deodorant Musk",
+    "title": "Primer Precio",
+    "price": "$3.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Hidratacion",
+    "title": "1 UN",
+    "price": "$4.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Ac Prebioticos+Biotina",
+    "title": "Carefree",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Tampones Esterilizados Medianos",
+    "title": "20 UN",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Toalla Femen Tanga C/Alas",
+    "title": "Doncella",
+    "price": "$1.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Preservativos Super Finos",
+    "title": "100 GR",
+    "price": "$6.455,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Tampones Super",
+    "title": "St Tropez",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cartucho Maq Afe Sensitve",
+    "title": "125 GR",
+    "price": "$6.279,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Alcohol Etílico 70 Grados Purocol 1000Ml",
+    "title": "Axe",
+    "price": "$3.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Acond Bomba Ceramidas",
+    "title": "152 ML",
+    "price": "$2.645,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Shampoo Ondas Boho",
+    "title": "Carefree",
+    "price": "$2.999,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Jabón De Tocador Antibacterial Cremoso Espadol Dettol 80 Gr.",
+    "title": "20 UN",
+    "price": "$1.299,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cerveza Stella Artois Pura Malta 473Ml Lata",
+    "title": "Dove",
+    "price": "$890,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Papel Higiénico Hoja Simple Soft Xl 4X80mts",
+    "title": "150 ML",
+    "price": "$2.199,00",
+    "categoria": "higiene"
+  },
+  {
+    "description": "Cerveza Rubia Brahma Dorada X 1 Lt. Retornable",
+    "title": "Tresemme",
+    "price": "$2.590,00",
+    "categoria": "higiene"
+  }
+]

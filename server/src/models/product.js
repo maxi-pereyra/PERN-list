@@ -2,7 +2,7 @@ const {DataTypes , UUIDV4} = require('sequelize')
 
 
 module.exports = (sequelize) => {
-    sequelize.define('Tasks', {
+    sequelize.define('Products', {
       id: {
         type: DataTypes.UUID,
         primaryKey: true,
@@ -13,10 +13,21 @@ module.exports = (sequelize) => {
         allowNull: false,
       },
       description: {
-        type: DataTypes.STRING,
+        type: DataTypes.TEXT,
         allowNull: false,
+      },
+      price:{
+        type: DataTypes.INTEGER,
+        allowNull: true
+      },
+      categories:{
+        type: DataTypes.ENUM,
+        values:["limpieza","higiene","alimentos"]
+      },
+      visibility: {
+        type: DataTypes.BOOLEAN,
+        defaultValue: true,
       }
-
 },
     {timestamps:false}
     );

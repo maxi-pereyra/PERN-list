@@ -1,0 +1,8 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Define how Git should handle files with specific extensions.
+*.js text
+*.json text
+*.html text
+*.css text
