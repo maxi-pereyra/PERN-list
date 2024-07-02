@@ -1,21 +1,24 @@
 import { Route , Routes} from 'react-router-dom'
 import NavBar from './components/navBar'
 import ProductList from './components/ProductList'
-import ProductForm from './components/ProductForm' 
-import ProductsOptions from './components/ProductsOptions'
+import EditSheet from './components/editSheet'
+import AddSheet from './components/addSheet'
+import { ProductProvider } from './context/product.jsx'
 
 function App() {
  
   return (
     <>
+        <ProductProvider>
+
     <NavBar></NavBar>
     
         <Routes>
           <Route path='/' element={<ProductList/>}/>
-          <Route path='/products/new' element={<ProductForm/>}/>
-          <Route path='/products/:id' element={<ProductForm/>}/>
-          <Route path='/productsOptions' element={<ProductsOptions/>}/>
+          <Route path='/products/new' element={<AddSheet/>}/>
+          <Route path='/products/:id' element={<EditSheet/>}/>
         </Routes>
+      </ProductProvider>
     
     </>
   )
