@@ -10,7 +10,7 @@ function ProductList() {
   useEffect(() => {
     getProducts();
     setProductsFilter(products)
-  }, []);
+  }, [getProducts, products]);
 
   const filteredProduct = (event) => {
     console.log(event.target.value)
@@ -25,7 +25,7 @@ function ProductList() {
   return (
     <>
     <select name="category" id="" 
-            className="border border-gray-400 p-2 rounded-md block my-2 w-full text-white"
+            className="border border-gray-400 p-2 rounded-md block my-2 w-full text-black"
             onChange={filteredProduct}
             placeholder="categories" >
               <option value="todos">todos</option>

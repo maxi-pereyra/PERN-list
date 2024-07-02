@@ -9,9 +9,9 @@ function App() {
  
   return (
     <>
-        <ProductProvider>
+      <ProductProvider>
 
-    <NavBar></NavBar>
+       <NavBar></NavBar>
     
         <Routes>
           <Route path='/' element={<ProductList/>}/>
