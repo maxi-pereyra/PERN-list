@@ -2,15 +2,15 @@ import {useState, useEffect, useContext} from "react"
 import ProductCard from "./ProductCard"
 import { productsContext } from "../context/product";
 function ProductList() {
-  const [ productsFilter, setProductsFilter] = useState()
   //const [productsFiltered , setProductsFiltered] = useState(products);
   const { products , getProducts} = useContext(productsContext)
+  const [ productsFilter, setProductsFilter] = useState([])
   
  console.log(products)
   useEffect(() => {
     getProducts();
-    setProductsFilter(products)
-  }, [getProducts, products]);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
 
   const filteredProduct = (event) => {
     console.log(event.target.value)
@@ -18,6 +18,7 @@ function ProductList() {
       setProductsFilter(products)
     }else{
       const filterProduct = products.filter(element => element.category == event.target.value);
+      console.log("filtered",filterProduct)
       setProductsFilter(filterProduct)
     }
   }

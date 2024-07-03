@@ -1,5 +1,5 @@
 import { useNavigate} from "react-router-dom";
-import { useState, useEffect, useContext } from "react";
+import { useState, useContext } from "react";
 import { productsContext } from "../context/product";
 
 function AddSheet () {
@@ -27,6 +27,7 @@ function AddSheet () {
   const handleSubmit = async (e) => {
     e.preventDefault();
     console.log("envio",product)
+    setLoading(true)
     try {
         const res = await fetch(
           "https://sheet.best/api/sheets/db0170a7-feff-477c-bc4f-81ad7bafe17a",
@@ -44,6 +45,7 @@ function AddSheet () {
       } catch (error) {
         console.log(error);
       }
+      setLoading(false)
   };
     return (
         <div className="h-[calc(100vh-64px)] flex flex-col items-center justify-center">
