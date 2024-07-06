@@ -14,7 +14,7 @@ function EditSheet () {
     title:'',
     description:'',
     price:'',
-    categories:'',
+    category:'',
     cartList:'',
     check:'',
   });
@@ -60,7 +60,7 @@ function EditSheet () {
             title:product.title,
             description:product.description,
             price:product.price,
-            categories:product.categories,
+            category:product.category,
             cartList:'false',
             check:'false',
           }),
@@ -125,7 +125,7 @@ function EditSheet () {
             <select name="category" id="" 
             className="border border-gray-400 p-2 rounded-md block my-2 w-full text-black"
             onChange={handleChange}
-            placeholder="categories" >
+            placeholder="category" >
               <option >category</option>
               <option value="limpieza">limpieza</option>
               <option value="higiene">higiene</option>

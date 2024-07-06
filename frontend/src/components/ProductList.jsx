@@ -35,8 +35,8 @@ function ProductList() {
               <option value="alimentos">alimentos</option>
             </select>
       {
-        productsFilter?.map((product,index)=>(
-        <ProductCard key={index} product={product} />            
+        productsFilter?.map((product)=>(
+        <ProductCard key={product.id} product={product} />            
         ))
       }
     </>
