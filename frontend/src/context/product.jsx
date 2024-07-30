@@ -12,7 +12,6 @@ export const ProductProvider = ({children}) => {
             );
             const data = await res.json();
             //setData(Object.keys(data).map((key) => data[key]));
-            console.log(data)
             setProducts(data)
           } catch (error) {
             console.log(error);

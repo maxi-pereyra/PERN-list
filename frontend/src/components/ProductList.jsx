@@ -5,6 +5,7 @@ function ProductList() {
   //const [productsFiltered , setProductsFiltered] = useState(products);
   const { products , getProducts} = useContext(productsContext)
   const [ productsFilter, setProductsFilter] = useState([])
+  const [ query, setQuery ] = useState('')
   
  console.log(products)
   useEffect(() => {
@@ -23,8 +24,27 @@ function ProductList() {
     }
   }
 
+  const handleBuscar = (event) => {
+    setQuery(event.target.value)
+  }
+  const handleSubmit = (event) => {
+    event.preventDefault();
+
+    console.log("buscando", query)
+  }
+
   return (
     <>
+     <form onSubmit={handleSubmit} className="w-full  flex justify-around mt-5 mb-4 ">
+       <button type="submit" className="bg-slate-200 hover:bg-slate-300 text-black font-bold py-2 px-4 rounded-lg my-2">Buscar</button>
+            <input
+                type="text"
+                value={query}
+                onChange={handleBuscar}
+                placeholder="Buscar..."
+                className="text-black m-2 text-center"
+            />
+        </form>
     <select name="category" id="" 
             className="border border-gray-400 p-2 rounded-md block my-2 w-full text-black"
             onChange={filteredProduct}

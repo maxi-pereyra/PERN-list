@@ -4,20 +4,24 @@ import ProductList from './components/ProductList'
 import EditSheet from './components/editSheet'
 import AddSheet from './components/addSheet'
 import { ProductProvider } from './context/product.jsx'
-
+import { ShoppingProvider } from './context/shopping.jsx'
+import Shopping from './components/shopping.jsx'
 function App() {
  
   return (
     <>
       <ProductProvider>
-
+      <ShoppingProvider>
        <NavBar></NavBar>
     
         <Routes>
           <Route path='/' element={<ProductList/>}/>
           <Route path='/products/new' element={<AddSheet/>}/>
           <Route path='/products/:id' element={<EditSheet/>}/>
+          <Route path='/cart' element={<Shopping/>}/>
+
         </Routes>
+      </ShoppingProvider>
       </ProductProvider>
     
     </>

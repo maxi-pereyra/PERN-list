@@ -1,5 +1,6 @@
 import {AppBar, Toolbar, Typography } from "@mui/material"
 import {Link , useNavigate, useLocation} from "react-router-dom"
+import { MdOutlineShoppingCartCheckout } from "react-icons/md";
 
 function NavBar() {
   
@@ -17,6 +18,15 @@ function NavBar() {
                             >elegir productos</button>
                         </Link> */}
                         <Link to={'/'}>SUPER</Link></Typography>
+                        <Link to={'/cart'}>
+                        <button
+                                className="bg-slate-200 hover:bg-slate-300 text-black font-bold
+                                 py-2 px-4 rounded-lg my-2 mx-4"
+                                onClick={() => navigate("/")}
+                                >
+                                    <MdOutlineShoppingCartCheckout />
+                                </button>
+                        </Link>
                          {location.pathname === "/products/new" || location.pathname.includes('/products/') ? (
                                 <button
                                 className="bg-slate-200 hover:bg-slate-300 text-black font-bold py-2 px-4 rounded-lg my-2"
@@ -29,9 +39,11 @@ function NavBar() {
                                 className="bg-slate-200 hover:bg-slate-300 text-black font-bold py-2 px-4 rounded-lg my-2"
                                 onClick={() => navigate("/products/new")}
                                 >
-                                Add Task
+                                Add Product
                                 </button>
                             )}
+
+                            
                 </Toolbar>
         </AppBar>
   )
