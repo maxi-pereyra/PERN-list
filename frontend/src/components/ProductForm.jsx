@@ -7,7 +7,7 @@ function ProductForm() {
     title:'',
     description:'',
     price:'',
-    categories:''
+    categories:'',
   })
   
   const [loading,setLoading] = useState(false)

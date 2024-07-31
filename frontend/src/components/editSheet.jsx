@@ -14,9 +14,7 @@ function EditSheet () {
     title:'',
     description:'',
     price:'',
-    category:'',
-    cartList:'',
-    check:'',
+    category:''
   });
 
 
@@ -45,7 +43,7 @@ function EditSheet () {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-    console.log("envio",product)
+
     try { 
       const res = await fetch(
         `https://sheet.best/api/sheets/db0170a7-feff-477c-bc4f-81ad7bafe17a/id/${id.slice(1)}`,

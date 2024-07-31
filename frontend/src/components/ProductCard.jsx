@@ -1,11 +1,12 @@
 
-import { NavLink } from "react-router-dom"
 import { useShopping } from "../hooks/useShopping";
 import { BsCartCheck } from "react-icons/bs";
 import { BsCartCheckFill } from "react-icons/bs";
-// eslint-disable-next-line react/prop-types
-function ProductCard({product}) {
+import EditModel from "./editModel";
 
+// eslint-disable-next-line react/prop-types
+function ProductCard({product , onClose, visible, setVisible}) {
+  
   const {cart , addToCart, removeToCart} = useShopping()
 
     const checkProductInCart = (product) => {
@@ -17,6 +18,7 @@ function ProductCard({product}) {
   return (
     <div className="bg-gray-700 p-3 flex flex-col  rounded-lg shadow-lg px-10 my-2 
     hover:cursor-pointer sm:flex-row justify-between">
+     
       <div>
           <h3 className="font-bold text-xl">{product.title}  <span className="text-xs"> {product.categories}</span></h3>
           <div className="flex m-1">
@@ -25,14 +27,13 @@ function ProductCard({product}) {
           </div>
       </div>
       <div className="mr-4 px-4">
-        <NavLink to={`/products/:${product.id}`}>
-          <button
+        <button
           className="bg-slate-200 hover:bg-slate-300 text-black 
           font-bold py-2 px-4 rounded-lg m-4 "
+          onClick={()=>setVisible({visible: !visible.visible , id: product.id})}
           >
           edit
-          </button>
-        </NavLink>
+        </button>
 
         <button
             className="bg-slate-200 hover:bg-red-300 text-black font-bold
@@ -49,7 +50,7 @@ function ProductCard({product}) {
                       : <BsCartCheck />
                   }
         </button>
-        
+        {(visible.visible && visible.id == product.id) && <EditModel onClose={onClose} product={product} />}
       </div>
     </div>
   )
