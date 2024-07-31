@@ -15,14 +15,13 @@ function Shopping() {
       const calculaToal = () => {
         var calculo = 0
         for(let i=0; i<cart.length ; i++){
-      
-          if(!(typeof cart[i].off == 'undefined')){
-            const presioConDescuento = cart[i].price ? Number(cart[i].price_off) : 0;
-            console.log(presioConDescuento) 
+
+          if((typeof cart[i].off !== 'undefined') || (cart[i].off  >=0)){
+            const presioConDescuento = cart[i].price_off ? Number(cart[i].price_off) : 0;
+            calculo=calculo + (presioConDescuento*cart[i].quantity)
           }else{
             const presioSinDescuento = cart[i].price ? Number(cart[i].price) : 0;
-            console.log(presioSinDescuento)
-            calculo=calculo + presioSinDescuento
+            calculo=calculo + (presioSinDescuento*cart[i].quantity)
           }
         }
         setTotales(calculo)
