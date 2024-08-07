@@ -3,7 +3,7 @@
 // eslint-disable-next-line no-unused-vars
 function ShoppingItems({product,addToCart,discountToCart,offPorcentaje,visibleModal,setVisibleModal,
   // eslint-disable-next-line no-unused-vars
-  offProductporcentaje,setOffProductPorcentaje
+  offProductporcentaje,setOffProductPorcentaje,setEdit,
 }) {
   
     const handleVisible = () => {
@@ -30,10 +30,12 @@ function ShoppingItems({product,addToCart,discountToCart,offPorcentaje,visibleMo
         id: '',
       })
     } 
+
      const handleChange = (e) => {
       e.preventDefault()
       setOffProductPorcentaje(e.target.value)
     }  
+
     return (
     <section>
      <li className="bg-gray-700 p-3 flex rounded-lg shadow-lg px-10 my-2 
@@ -83,13 +85,16 @@ function ShoppingItems({product,addToCart,discountToCart,offPorcentaje,visibleMo
           }
         </div>
       </div>
-      <div className="flex justify-end items-center ">
+      <div className="flex flex-col justify-around items-center ">
         <div>
           <button onClick={discountToCart} 
             className="mx-4 w-8 bg-slate-300 hover:bg-red-300 rounded-lg">-</button>
             <span>{product.quantity}</span>
           <button onClick={addToCart}
             className="mx-4  w-8 bg-slate-300 hover:bg-red-300 rounded-lg">+</button>
+        </div>
+        <div>
+          <button onClick={()=>setEdit({id:product.id, status: true})}>Edit</button>
         </div>
       </div>
 

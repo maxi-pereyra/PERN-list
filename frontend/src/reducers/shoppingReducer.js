@@ -68,7 +68,6 @@ export function shoppingReducer(state,action) {
             return [];
         }
         case TYPES.OFF_PORCENTAJE:{
-            console.log("payload",payload)
 
             const {productId,offPorcentaje} = payload
             const productInCart = state.findIndex(item => item.id == productId)
@@ -80,6 +79,21 @@ export function shoppingReducer(state,action) {
                 const newState = [
                     ...state.slice(0,productInCart),
                     {...state[productInCart], off: offPorcentaje, price_off: priceOff},
+                    ...state.slice(productInCart+1)
+                ]
+                updateLocalStorage(newState)
+                return newState;
+            }
+            return state
+        }
+        case TYPES.UPDATE_PRODUCT:{
+            const {id, price, description} = payload;
+            const productInCart = state.findIndex(item => item.id == id);
+            
+            if(productInCart >= 0){
+                const newState = [
+                    ...state.slice(0,productInCart),
+                    {...state[productInCart], price: price, description: description},
                     ...state.slice(productInCart+1)
                 ]
                 updateLocalStorage(newState)

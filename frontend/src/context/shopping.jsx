@@ -25,15 +25,26 @@ function useShoppingReducer () {
     })
 
     const offPorcentaje = (product) => {
-        console.log("offProcentaje",product)
         dispatch({type: TYPES.OFF_PORCENTAJE,
         payload: product
     })}
-    return {state,addToCart,removeToCart,clearToCart,discountToCart,offPorcentaje}
+
+    const updateProduct = (product) => {
+        dispatch({type: TYPES.UPDATE_PRODUCT,
+            payload: product
+        })
+    }
+    return {state,addToCart,removeToCart,clearToCart,discountToCart,offPorcentaje,updateProduct}
 }
 
 export function ShoppingProvider ({children}) {
-    const {state, addToCart, removeToCart, clearToCart, discountToCart, offPorcentaje} = useShoppingReducer();
+    const {state,
+        addToCart,
+        removeToCart,
+        clearToCart, 
+        discountToCart, 
+        offPorcentaje,
+        updateProduct} = useShoppingReducer();
 
     return(
         <shoppingContext.Provider value={{
@@ -42,7 +53,8 @@ export function ShoppingProvider ({children}) {
             removeToCart,
             clearToCart,
             discountToCart,
-            offPorcentaje
+            offPorcentaje,
+            updateProduct
         }}>
             {children}
         </shoppingContext.Provider>

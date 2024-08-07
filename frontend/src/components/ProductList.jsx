@@ -1,38 +1,44 @@
-import {useState, useEffect, useContext} from "react"
+import {useState, useEffect} from "react"
 import ProductCard from "./ProductCard"
-import { productsContext } from "../context/product";
+import { fetchDataCsv } from '../api/api.sheets'
 
 function ProductList() {
   const [visible,setVisible] = useState({
     visible: false,
     id: ''
   })
-  const { products , getProducts} = useContext(productsContext)
   const [ productsFilter, setProductsFilter] = useState([])
   const [search , setSearch] = useState('')
+  // eslint-disable-next-line no-unused-vars
+  const [csvData, setcsvData] = useState();
+
+  const getData = async () =>{
+    let response = await fetchDataCsv()
+    setcsvData(response)
+  }
 
   useEffect(() => {
-    getProducts();
+    getData();
   // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const filteredProduct = (event) => {
 
     if(event.target.value=='todos'){
-      setProductsFilter(products)
+      setProductsFilter(csvData)
     }else{
-      const filterProduct = products.filter(element => element.category == event.target.value);
+      const filterProduct = csvData.filter(element => element.category == event.target.value);
       setProductsFilter(filterProduct)
     }
   }
 
   const handleBuscar = () => {
-    setProductsFilter(products.filter(element => element.title.toLowerCase().includes(search.toLowerCase())))
+    setProductsFilter(csvData.filter(element => element.title.toLowerCase().includes(search.toLowerCase())))
   }
 
   const handleModalClose = (shouldUpdate) => {
     if(shouldUpdate){
-      getProducts()
+      getData()
     }
     setVisible({
       visible: !visible.visible,
@@ -41,7 +47,7 @@ function ProductList() {
   }
 
   return (
-    <>
+    <> 
        <button type="submit"
                className="bg-slate-200 hover:bg-slate-300 text-black font-bold py-2
        px-4 rounded-lg my-2"
@@ -71,7 +77,6 @@ function ProductList() {
                                           setVisible={setVisible}/>            
                                         ))
       }
-     
     </>
   )
 }

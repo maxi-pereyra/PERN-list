@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 
 import ShoppingItems from "./shoppingItems";
 import { useShopping } from "../hooks/useShopping";
@@ -5,11 +6,19 @@ import { MdPlaylistRemove } from "react-icons/md";
 import { useEffect, useState } from "react"
 
 function Shopping() {
-    const {cart, addToCart,discountToCart,clearToCart,offPorcentaje} = useShopping();
+    const {cart, addToCart,discountToCart,clearToCart,offPorcentaje,updateProduct} = useShopping();
     const [visibleModal,setVisibleModal] = useState({visible:false,id:''});
     const [offProductporcentaje,setOffProductPorcentaje] = useState(' ')
     const [totales,setTotales] = useState(0)
-
+    const [productUp,setProductUp] = useState({
+      id: '',
+      description:'',
+      price:'',
+    })
+    const [Edit,setEdit] = useState({
+      id: '',
+      status: false
+    })
     
     useEffect(()=>{
       const calculaToal = () => {
@@ -28,8 +37,52 @@ function Shopping() {
       }
      cart.length>0 && calculaToal()
     },[cart])
+ 
+    const handleUpProduct = () => {
+      updateProduct(productUp)
+      console.log("Se edito", productUp)
+      setEdit({
+        id:'',
+        status: false
+      })
+    } 
 
-    console.log(cart)
+    const handleChangeUp = (e) => {
+      setProductUp({...productUp,id: Edit.id, [e.target.name]: e.target.value})
+    }
+
+    if(Edit.status) return ( <aside className="fixed z-50 top-0 left-0 w-full min-h-[100vh] bg-[rgba(0,0,0,0.75)] 
+      flex justify-center ">
+      <div  className="flex flex-col justify-center items-center ">
+            <button onClick={()=>{
+              setProductUp({
+                id: '',
+                description:'',
+                price:'',
+              });
+              setEdit({id:'',status:false})
+              }}>X</button>
+            <input
+                type="text"
+                name="price"
+                placeholder="price"
+                className="border border-gray-400 p-2 rounded-md block my-2 w-full text-black"
+                onChange={handleChangeUp}
+                value={productUp.price}
+                autoFocus
+                />
+            <textarea
+                name="description"
+                rows={4}
+                placeholder="Write your description"
+                className="border border-gray-400 p-2 rounded-md block my-2 w-full text-gray-800"
+                onChange={handleChangeUp}
+                value={productUp.description}
+          ></textarea>
+          <button onClick={handleUpProduct}>Editar</button>
+      </div>
+    </aside>)
+
     return (
     <div>
         <h3 className="text-center">carrito</h3>
@@ -40,7 +93,9 @@ function Shopping() {
           visibleModal={visibleModal}
           setVisibleModal={setVisibleModal}
           offProductporcentaje={offProductporcentaje}
-          setOffProductPorcentaje={setOffProductPorcentaje} />)}
+          setOffProductPorcentaje={setOffProductPorcentaje} 
+          setEdit={setEdit}
+        />)}
          
       {
         cart.length && (<button onClick={()=>clearToCart()}

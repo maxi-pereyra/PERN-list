@@ -23,7 +23,8 @@ function EditModel({onClose, product}) {
 
     const handleSubmit = async (e) => {
         e.preventDefault();
-            try { 
+        onclose(true)
+         /*    try { 
             const res = await fetch(
                 `https://sheet.best/api/sheets/db0170a7-feff-477c-bc4f-81ad7bafe17a/id/${product.id}`,
                 {
@@ -48,7 +49,7 @@ function EditModel({onClose, product}) {
             }
             } catch (error) {
             console.log(error);
-            }
+            } */
             }
 
     return (
