@@ -51,7 +51,8 @@ function ProductList() {
        <button type="submit"
                className="bg-slate-200 hover:bg-slate-300 text-black font-bold py-2
        px-4 rounded-lg my-2"
-                onClick={handleBuscar}>Buscar</button>
+                onClick={handleBuscar}
+                disabled={csvData ? true : false}>Buscar</button>
             <input
                 type="text"
                 value={search}
